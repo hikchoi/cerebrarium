@@ -2,7 +2,7 @@
 id: 739ad898-dfbf-403f-8cc6-073cfcca103e
 title: Dendron
 desc: ''
-updated: 1611501599937
+updated: 1612007087706
 created: 1609631769094
 ---
 
@@ -23,8 +23,6 @@ created: 1609631769094
     - fix: make something not broken
     - chore: backend improvements
     - spike: not complete commi
-
-## Test,1
 
 ## Setup
 
@@ -160,3 +158,21 @@ Testing in Dendron
 - not sure what the best way to structure tests would be
     1. bundle tests that are testing similar functionality into one test block
     2. have them all separate.
+
+**2021-01-30 3:40 PM**
+- decided to pick up [#410](https://github.com/dendronhq/dendron/issues/410)
+- currently `selectionExtract` will delete the text selected text from the original location even if the file is not part of the vault. This is might not be desirable.
+- As-is
+    - delete extracted text from file regardless.
+- To-be
+    - check if the document we are extracting from is from the same vault.
+        - If it is, delete extracted text.
+        - otherwise, don't
+
+**2021-01-30 8:41 PM**
+- looks like nobody is working on this issue. will pick up.
+- not sure if I should use `getByVaultPath` or `getVaultByNotePathV4`
+    - `getByVaultPath` is marked @deprecated, but is still in use in one place
+    - `getVaultByNotePathV4`
+        - using this against a non-vault file will raise an exception.
+        - is using a try/catch block for control flow something people do in js/ts?

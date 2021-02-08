@@ -2,7 +2,7 @@
 id: 3b017f65-fc19-48e0-a1fc-33e1b89a3621
 title: Js
 desc: ''
-updated: 1610579841679
+updated: 1612010114283
 created: 1609632363777
 ---
 
@@ -10,6 +10,7 @@ created: 1609632363777
 
 ## Topics
 - [[Variable declaration|cerebrarium.dev.lang.js.variable]]
+
 
 ## Tooling
 

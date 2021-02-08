@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1611766257515
+updated: 1612604635012
 created: 1608877391650
 ---
 
@@ -68,7 +68,18 @@ Task that need more breaking down also belongs here until it becomes actionable.
         - [x] add `ENGINE_HOOKS` on some of those test cases
         - [x] add more tests
     - waiting for review.
-- [ ] pick up another `size.small`
+- [ ] work on issue [#410](https://github.com/dendronhq/dendron/issues/410)
+    - fix
+        - [ ] check if extraction comes from known vault
+        - [ ] don't delete selected text if it comes from a non-vault file
+    - test
+        - [ ] figure out mocha test setup
+        - [ ] write tests
+            - `LookupCommand.test.ts`
+    - [ ] cleanup
+    - [ ] commit
+    - [ ] push, PR
+- [x] pick up another `size.small`
 - familiarize Dendron internals
     - [x] how to add `ENGINE_HOOKS` for mocking new test cases
     - [ ] figure out what procs are? [unifiedjs](https://unifiedjs.com/)
@@ -76,12 +87,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] input boxes
     - [ ] quick picks
     - [ ] webview
-- [ ] custom css for markdown preview
-    - [ ] tweak css
-        - [ ] codeblock styling
-        - [ ] checkbox styling
-        - [ ] anchor styling
-
+    - [ ] vscode API primer
 - [ ] feature request write-up for configurable root node
 
 ## [cerebrarium.garden](https://cerebrarium.garden)
@@ -90,6 +96,11 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - [ ] hide certain hierarchies from navbar (e.g. notes)
 - [ ] try to incorporate block references?
 - [ ] fix old ref syntax to new one
+- [ ] custom css for markdown preview
+    - [ ] tweak css
+        - [ ] codeblock styling
+        - [ ] checkbox styling
+        - [ ] anchor styling
 
 ## [markhyunikchoi.com](https://markhyunikchoi.com)
 - housekeeping
@@ -128,8 +139,9 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] processing surface
 - Teletype build
     - [x] order substitute socket for OLED screen
-    - [ ] order replacement U1
+    - [x] order replacement U1
     - [ ] troubleshoot CV 3 output voltage.
+    - [ ] find cheap keyboard
 - Veils build (second)
     - [ ] sand down panel
     - [ ] build
@@ -139,7 +151,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] build
     - [ ] notes
 - Fade build
-    - [ ] source components
+    - [x] source components
     - [ ] compile IBOM
     - [ ] notes
 - Tool notes

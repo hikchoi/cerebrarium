@@ -2,10 +2,15 @@
     "folders": [
         {
             "path": "vault"
+        },
+        {
+            "path": "test"
         }
     ],
     "settings": {
         "dendron.rootDir": ".",
+        "dendron.defaultJournalAddBehavior": "childOfCurrent",
+        "dendron.defaultScratchAddBehavior": "asOwnDomain",
         "files.autoSave": "onFocusChange",
         "pasteImage.path": "${currentFileDir}/assets/images",
         "pasteImage.prefix": "/",
@@ -25,7 +30,7 @@
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "telemetry.enableTelemetry": false,
         "markdown-preview-enhanced.previewTheme": "none.css",
-        "markdown-preview-enhanced.codeBlockTheme": "atom-dark.css",
+        "markdown-preview-enhanced.codeBlockTheme": "atom-dark.css"
     },
     "extensions": {
         "recommendations": [
