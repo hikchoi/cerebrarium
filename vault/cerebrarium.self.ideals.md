@@ -2,7 +2,7 @@
 id: 10a38037-294e-4847-9e74-ca16cac56067
 title: Ideals
 desc: ''
-updated: 1611237001942
+updated: 1613393215360
 created: 1611236135906
 ---
 

@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1612604635012
+updated: 1612791748466
 created: 1608877391650
 ---
 
@@ -35,7 +35,6 @@ created: 1608877391650
 > Unsorted list of actionables waiting to be categorized, or does not fit into a bigger topic. 
 Task that need more breaking down also belongs here until it becomes actionable.
 
-- [ ] look into carbon steel woks
 - [ ] repo for dotfiles?
 
 ## self(meta)
@@ -50,38 +49,14 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] figure out how to gradually introduce vim keybindings that I actually use
     - [ ] try following [Stephen's workflow](https://discord.com/channels/717965437182410783/717965437182410786/798338552761024552)
 
+## dev
+- [ ] start compiling terraform notes
+
+
 ## open source
 
 ### dendron
-- [x] work on issue [#417](https://github.com/dendronhq/dendron/issues/417)
-    - [ ] ~~swap out old md parser~~ kevin did this for the pairing session
-    - [x] add test case for `MarkdownPublishPod`
-        - [x] learn how tests are set up
-        - [x] write tests in `MarkdownPod.spec.ts`
-            - [x] additional tests using other setup hooks
-    - [x] cleanup
-    - [x] read up on conventional commits
-    - [x] commit
-    - [x] push, PR
-    - [ ] change requested [#458](https://github.com/dendronhq/dendron/pull/458)
-        - [x] think about more test cases relevant to `MarkdownPublishPod`
-        - [x] add `ENGINE_HOOKS` on some of those test cases
-        - [x] add more tests
-    - waiting for review.
-- [ ] work on issue [#410](https://github.com/dendronhq/dendron/issues/410)
-    - fix
-        - [ ] check if extraction comes from known vault
-        - [ ] don't delete selected text if it comes from a non-vault file
-    - test
-        - [ ] figure out mocha test setup
-        - [ ] write tests
-            - `LookupCommand.test.ts`
-    - [ ] cleanup
-    - [ ] commit
-    - [ ] push, PR
-- [x] pick up another `size.small`
 - familiarize Dendron internals
-    - [x] how to add `ENGINE_HOOKS` for mocking new test cases
     - [ ] figure out what procs are? [unifiedjs](https://unifiedjs.com/)
 - familiarize VSCode internals
     - [ ] input boxes
@@ -89,6 +64,11 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] webview
     - [ ] vscode API primer
 - [ ] feature request write-up for configurable root node
+- [ ] write tests for `selectExtraction` (lookup command)
+    - [ ] issue
+    - [ ] list test cases
+    - [ ] write tests
+    - [ ] cleanup and PR
 
 ## [cerebrarium.garden](https://cerebrarium.garden)
 - [ ] think about ways to do daily publishing
@@ -118,6 +98,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] dark mode
 - [ ] port to 11ty?
     - this is a lot of work. possibly a complete rework...
+- [ ] update now page
 
 ## modular synthesis
 - [ ] plan focused sessions for learning currently owned modules
@@ -126,6 +107,8 @@ Task that need more breaking down also belongs here until it becomes actionable.
     - [ ] 0-coast
         - [ ] each section
 - [ ] expand concept notes
+- [ ] start exploring the double helix oscillator
+    - [ ] add concept notes on complex oscillators
 
 ## DIY
 - [ ] learn how to order PCB from JLCPCB
@@ -148,7 +131,7 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - Kinks build
     - [ ] ~~R20, R21, R25, R32, R37~~
     - [x] source components
-    - [ ] build
+    - [x] build
     - [ ] notes
 - Fade build
     - [x] source components

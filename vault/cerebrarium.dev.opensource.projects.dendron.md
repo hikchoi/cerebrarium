@@ -2,7 +2,7 @@
 id: 739ad898-dfbf-403f-8cc6-073cfcca103e
 title: Dendron
 desc: ''
-updated: 1612007087706
+updated: 1613219942386
 created: 1609631769094
 ---
 
@@ -176,3 +176,7 @@ Testing in Dendron
     - `getVaultByNotePathV4`
         - using this against a non-vault file will raise an exception.
         - is using a try/catch block for control flow something people do in js/ts?
+
+**2021-02-13 9:38 PM**
+- picking up a mid sized task. [#466](https://github.com/dendronhq/dendron/issues/446)
+- should implement a FoldingRangeProvider for frontmatter.

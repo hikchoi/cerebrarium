@@ -2,11 +2,11 @@
 id: f96d0a8a-357c-498e-a7cb-d41ce277e281
 title: Module
 desc: ''
-updated: 1611528383328
+updated: 1613042696327
 created: 1609644505582
 ---
 # Modules
-
+`
 ## Standalone
 
 - [[MakeNoise 0-coast|cerebrarium.music.synth.module.0-coast]]
@@ -25,6 +25,7 @@ created: 1609644505582
 - [[4MS Rotating Clock Divider|cerebrarium.music.synth.module.rcd]]
 - [[Mutable Instruments Veils|cerebrarium.music.synth.module.veils]]
 - [[Monome Teletype|cerebrarium.music.synth.module.teletype]]
+- [[Pittsburgh Modular Double Helix Oscillator|cerebrarium.music.synth.module.double-helix]]
 - [[Mutable Instrument Kinks|cerebrarium.music.synth.module.kinks]]
 - [[Antumbra FADE|cerebrarium.music.synth.module.fade]]
 - Mutable Instruments Plaits
