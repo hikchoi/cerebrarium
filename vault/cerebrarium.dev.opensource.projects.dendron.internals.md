@@ -2,7 +2,7 @@
 id: 59f0566b-24ea-4053-90e1-39a706a397e9
 title: Internals
 desc: ''
-updated: 1613042841571
+updated: 1614583583758
 created: 1612791819408
 ---
 
@@ -18,4 +18,5 @@ created: 1612791819408
 - listens to changes in the [window](https://code.visualstudio.com/api/references/vscode-api#window)
 - currently (as of 2021-02-11), listens to change in active text editor, and update the text decorator that shows human readable timestamp of `updated` and and `created`
 
-## workspace setting
+## DendronWorkspace
+- 

@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1612791748466
+updated: 1613435706402
 created: 1608877391650
 ---
 
@@ -51,7 +51,6 @@ Task that need more breaking down also belongs here until it becomes actionable.
 
 ## dev
 - [ ] start compiling terraform notes
-
 
 ## open source
 

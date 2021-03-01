@@ -12,7 +12,6 @@
         "dendron.defaultJournalAddBehavior": "childOfCurrent",
         "dendron.defaultScratchAddBehavior": "asOwnDomain",
         "files.autoSave": "onFocusChange",
-        "pasteImage.path": "${currentFileDir}/assets/images",
         "pasteImage.prefix": "/",
         "markdown-preview-enhanced.enableWikiLinkSyntax": true,
         "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
@@ -24,13 +23,15 @@
         },
         "editor.suggest.showSnippets": true,
         "editor.tabCompletion": "on",
-        // "workbench.editor.showTabs": false,
+        "workbench.editor.showTabs": false,
         "breadcrumbs.enabled": false,
         "dendron.defaultLookupCreateBehavior": "selectionExtract",
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "telemetry.enableTelemetry": false,
         "markdown-preview-enhanced.previewTheme": "none.css",
-        "markdown-preview-enhanced.codeBlockTheme": "atom-dark.css"
+        "markdown-preview-enhanced.codeBlockTheme": "atom-dark.css",
+        "markdown-preview-enhanced.renderRefWithOutline": false,
+        "pasteImage.path": "${currentFileDir}/assets/images"
     },
     "extensions": {
         "recommendations": [

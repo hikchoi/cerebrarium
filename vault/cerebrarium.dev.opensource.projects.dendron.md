@@ -2,7 +2,7 @@
 id: 739ad898-dfbf-403f-8cc6-073cfcca103e
 title: Dendron
 desc: ''
-updated: 1613219942386
+updated: 1614578402591
 created: 1609631769094
 ---
 
@@ -23,11 +23,6 @@ created: 1609631769094
     - fix: make something not broken
     - chore: backend improvements
     - spike: not complete commi
-
-## Setup
-
-- Do this every time you pull in from upstream
-    - [build repo](https://dendron.so/notes/64f0e2d5-2c83-43df-9144-40f2c68935aa.html#3-build-repo)
 
 ## Notes
 
