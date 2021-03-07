@@ -2,11 +2,10 @@
 id: 7366dbe6-e5e5-4d68-9411-bd9d52114664
 title: Elephantipes
 desc: ''
-updated: 1613393199411
+updated: 1615151508028
 created: 1612097623462
 ---
 
-| Development status: [[#initial phase|cerebrarium.tags.initial]]
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dioscorea_elephantipes)
 

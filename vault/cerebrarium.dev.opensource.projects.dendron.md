@@ -2,7 +2,7 @@
 id: 739ad898-dfbf-403f-8cc6-073cfcca103e
 title: Dendron
 desc: ''
-updated: 1614578402591
+updated: 1615153244251
 created: 1609631769094
 ---
 
@@ -175,3 +175,17 @@ Testing in Dendron
 **2021-02-13 9:38 PM**
 - picking up a mid sized task. [#466](https://github.com/dendronhq/dendron/issues/446)
 - should implement a FoldingRangeProvider for frontmatter.
+
+**2021-03-08 6:15 AM**
+- `selectionExtract` test case considerations
+- test both single and multi vault (known)
+- basic
+    - extracts selected text correctly
+    - removes from original note
+- useless?
+    - nothing is selected
+        - should just create empty note
+    - only whitespace is selected
+        - should just create empty note but cursor will go to the bottom
+- This is a pretty straightforward feature. Can't seem to come up with a case that is intrinsic to `selectionExtract`
+- Adding basic tests for single/multi vault and calling it done.

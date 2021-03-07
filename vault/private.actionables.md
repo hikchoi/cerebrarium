@@ -2,7 +2,7 @@
 id: 7a2ab298-f46f-445c-9e6c-8f58d135ce7a
 title: Actionables
 desc: ''
-updated: 1613435706402
+updated: 1615151288359
 created: 1608877391650
 ---
 
@@ -53,21 +53,6 @@ Task that need more breaking down also belongs here until it becomes actionable.
 - [ ] start compiling terraform notes
 
 ## open source
-
-### dendron
-- familiarize Dendron internals
-    - [ ] figure out what procs are? [unifiedjs](https://unifiedjs.com/)
-- familiarize VSCode internals
-    - [ ] input boxes
-    - [ ] quick picks
-    - [ ] webview
-    - [ ] vscode API primer
-- [ ] feature request write-up for configurable root node
-- [ ] write tests for `selectExtraction` (lookup command)
-    - [ ] issue
-    - [ ] list test cases
-    - [ ] write tests
-    - [ ] cleanup and PR
 
 ## [cerebrarium.garden](https://cerebrarium.garden)
 - [ ] think about ways to do daily publishing
