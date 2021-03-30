@@ -2,15 +2,12 @@
     "folders": [
         {
             "path": "vault"
-        },
-        {
-            "path": "test"
         }
     ],
     "settings": {
         "dendron.rootDir": ".",
         "dendron.defaultJournalAddBehavior": "childOfCurrent",
-        "dendron.defaultScratchAddBehavior": "asOwnDomain",
+        "dendron.defaultScratchAddBehavior": "childOfCurrent",
         "files.autoSave": "onFocusChange",
         "pasteImage.prefix": "/",
         "markdown-preview-enhanced.enableWikiLinkSyntax": true,
@@ -23,7 +20,7 @@
         },
         "editor.suggest.showSnippets": true,
         "editor.tabCompletion": "on",
-        "workbench.editor.showTabs": false,
+        "workbench.editor.showTabs": true,
         "breadcrumbs.enabled": false,
         "dendron.defaultLookupCreateBehavior": "selectionExtract",
         "editor.suggest.snippetsPreventQuickSuggestions": false,
@@ -31,7 +28,8 @@
         "markdown-preview-enhanced.previewTheme": "none.css",
         "markdown-preview-enhanced.codeBlockTheme": "atom-dark.css",
         "markdown-preview-enhanced.renderRefWithOutline": false,
-        "pasteImage.path": "${currentFileDir}/assets/images"
+        "pasteImage.path": "${currentFileDir}/assets/images",
+        "workbench.editor.closeOnFileDelete": true
     },
     "extensions": {
         "recommendations": [

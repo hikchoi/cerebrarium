@@ -2,7 +2,7 @@
 id: 6e152bc4-a177-40be-96ef-1fd9df382aa6
 title: Pachypus
 desc: ''
-updated: 1614574685184
+updated: 1616938951801
 created: 1614428729473
 ---
 
@@ -71,3 +71,10 @@ I am not sure if I should soak the thing in root conditioner (like clone X or ox
     8. https://codexgreen.com/unexplained-pearsonii_purchase_5/
     9. https://www.youtube.com/watch?v=md2dAL4KA4Y
     
+**2021-03-28 10:28 PM**
+- Quite a bit of time has past since I started looking into pachypuses (pachypi?), but along the way I decided there is no way this is going to survive so I just left it as is.
+- However, I did purchase a very small and not-tubular pachypus for a relatively cheap.
+    - It is currently getting used to the environment and has several bits where the new leaves are about to form.
+- Also, apparently there will be a bulk sale of yet-to-be-rooted pachypuses at a new store.
+- So now I'm coming back to the topic and trying to gather information so I can be prepared to try out rooting it myself.
+- link to the [[project log|projects.pachypus-prep]]

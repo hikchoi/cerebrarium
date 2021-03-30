@@ -2,7 +2,7 @@
 id: f31efd32-73f6-4d5d-92aa-d99bf838eaa6
 title: Readables
 desc: ''
-updated: 1611237448068
+updated: 1616867169145
 created: 1608971100102
 ---
 
@@ -19,3 +19,7 @@ created: 1608971100102
 - [ ] https://basecamp.com/shapeup/shape-up.pdf
 - [ ] https://templates.netlify.com/template/eleventy-netlify-boilerplate/
 - [ ] http://www.metaself.org/index.php
+- [ ] https://argdown.org/
+- [ ] https://boffosocko.com/
+- [ ] https://www.ribbonfarm.com/2012/02/29/just-add-water/
+- [ ] https://www.routledge.com/Knowledge-Architectures-Structures-and-Semantics/Bedford/p/book/9780367219444

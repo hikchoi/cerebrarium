@@ -2,7 +2,7 @@
 id: a9254c14-fd25-4d81-b0e9-57652226ffed
 title: Python
 desc: ''
-updated: 1609737967550
+updated: 1616981221206
 created: 1609632400175
 ---
 
@@ -33,3 +33,4 @@ created: 1609632400175
     ```
 - testing out python regex
     [pythex](https://pythex.org/)
+

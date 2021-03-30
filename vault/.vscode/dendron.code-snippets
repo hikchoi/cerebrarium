@@ -22,5 +22,11 @@
         "scope": "markdown,yaml",
         "body": "$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE",
         "description": "time"
+    },
+    "retrospect": {
+        "prefix": "retro",
+        "scope": "markdown,yaml",
+        "body": "# ${1:subject}\n\n## What\n\n## How\n\n## The good\n\n## The bad\n\n## How to proceed",
+        "description": "template for generic retrospect note"
     }
 }
