@@ -2,7 +2,7 @@
 id: 51d27109-bd15-4355-ab4c-c5ada0cdee12
 title: Pachypus Prep
 desc: ''
-updated: 1617118005288
+updated: 1617294474091
 created: 1616938696417
 ---
 
@@ -18,7 +18,7 @@ created: 1616938696417
 - [ ] Answer them yourself
 - [ ] List up gardening tools / chemicals / hardware I need before rooting.
 - [ ] Order said products
-- [ ] Study up on how to select a healthy plant
+- [x] Study up on how to select a healthy plant
 - [ ] Study how rooting is done
 
 ## Notes
@@ -101,7 +101,37 @@ I will use the transparent `mesh pot` I own, and also purchase a slightly larger
 - While we are on the topic of soil, I also need a proper trowel, and a sieve.
 
 Q. Should I build a greenhouse?
+- I thought about this a lot, but I don't think I need it. At least not yet.
+    - The shop I am planning to purchase the imported pachypus has posted a photo of the plants today and they seem to have planted them right after import in order to condition them to the local climate.
+        - They will be unpotted to let the customers check root conditions.
+    - I have heard that they have already cut the unhealthy parts of the root and confirmed it's health
+    - It's getting warmer outside, so keeping the temperature high is less of an issue.
+    - A lot of information online leads me to think that high humidity and high temperature is key to successful rooting of an imported plant, but there are a few things to consider here
+        - Opeerculicarya Pachypus is endemic to Madagascar, where you do have high heat, but not much high humidity.
+        - Making an artificially humid environment seems to be a forced way of promoting new root growth.
+            - This makes the success rate unpredictable.
+            - This is not necessary for a relatively healthy plant.
+            - I theorize that it is a very extreme measure to take when you know the plant is slowly withering, and want to force new roots so that it can be conditioned again to revive.
+                - This makes _starting with a healthy plant_ from the beginning more important
+                
+
 Q. How do I select a good healthy pachypus?
+
+- If the caudex has white spotty marks, it's likely that it's rotting inside.
+    - Less of a problem if it's already rooted.
+    - Try to find something that has the least white spots on the body.
+- Surviving green leaves are a sign that the caudex is still somewhat healthy.
+- Hints of green on the caudex when sprayed means it is healthy.
+- The larger the plant, the more stronger it is.
+    - Thus more likely to have survived the stress while importing.
+- There are already roots
+- `Power tank` is not cut.
+- It hasn't been long since it was imported.
+- If you scratch the skin off, it's green.
+- The trunk's skin has a bit of sheen to it.
+
+
+
 Q. What do I do immediately after I purchase it?
 Q. Where do I want to keep it while it is rooting?
 Q. When do I start watering it?

@@ -2,7 +2,7 @@
 id: 7366dbe6-e5e5-4d68-9411-bd9d52114664
 title: Elephantipes
 desc: ''
-updated: 1615151508028
+updated: 1617143160411
 created: 1612097623462
 ---
 
@@ -24,3 +24,5 @@ created: 1612097623462
     - vines might wither down during the summer, but not always.
     - the body doesn't grow drastically. just the vines.
     - it will live up to 70 years.
+
+**2021-03-31 7:25 AM**
