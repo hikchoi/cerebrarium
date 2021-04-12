@@ -6,12 +6,12 @@ updated: 1617029765686
 created: 1609633519981
 stub: true
 ---
-
 ## Open source
 
 ### notes
 
 ### useful links
+
 [Fork or Clone?](https://opensource.com/article/19/11/first-open-source-contribution-fork-clone)
 
 [Triaging](https://opensource.com/life/16/8/how-get-bugs-fixed-open-source-software)
@@ -22,6 +22,7 @@ stub: true
 
 ### concepts
 
-
 ### projects
-![[cerebrarium.dev.opensource.projects.dendron]]
+
+![[cerebrarium.dev.dendron]]
+

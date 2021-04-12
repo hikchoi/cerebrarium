@@ -6,8 +6,6 @@
     ],
     "settings": {
         "dendron.rootDir": ".",
-        "dendron.defaultJournalAddBehavior": "childOfCurrent",
-        "dendron.defaultScratchAddBehavior": "childOfCurrent",
         "files.autoSave": "onFocusChange",
         "pasteImage.prefix": "/",
         "markdown-preview-enhanced.enableWikiLinkSyntax": true,
