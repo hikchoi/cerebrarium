@@ -2,7 +2,7 @@
 id: 7366dbe6-e5e5-4d68-9411-bd9d52114664
 title: Elephantipes
 desc: ''
-updated: 1617143160411
+updated: 1618415772323
 created: 1612097623462
 ---
 
@@ -25,4 +25,6 @@ created: 1612097623462
     - the body doesn't grow drastically. just the vines.
     - it will live up to 70 years.
 
-**2021-03-31 7:25 AM**
+**2021-04-15 12:55 AM**
+- New link to check out : https://inuairon.com/caudex-dioscorea-elephantipes-how-to-grow/
+- Also, log what you did when there was a [[mealy bug|cerebrarium.botany.care.pest.mealybug]] problem. 

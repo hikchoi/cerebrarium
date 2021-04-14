@@ -2,17 +2,20 @@
 id: 3e110afd-f3d7-4e65-a6a2-68386e385830
 title: Set up PARA
 desc: ''
-updated: 1616900030111
+updated: 1618426878549
 created: 1615852422213
 ---
 
 # Set up PARA
 
-- [ ] Establish projects
+- [x] Establish projects
     - [x] Pull out all actionable notes from [[cerebrarium]]
     - [x] put it all in [[projects]]
         - Do not think about the hierarchy or schema just yet. Just do it.
-    - [ ] Also create new entries for projects that you have thought about but never put into action.
+    - [x] Also create new entries for projects that you have thought about but never put into action.
+- [ ] tag statuses of all projects
+- [ ] tagging vs. categorization by hierarchy on projects
+    - maybe time for a retrospect on this topic
 
 
 ## Notes
@@ -29,3 +32,10 @@ created: 1615852422213
 - Dendron's hierarchical way of organizing notes naturally eliminate the need to artificially set up the `area`s in PARA
 - Simply not thinking about a rigid structure for PARA makes it much more easier to grasp the idea.
 
+2021-04-15 3:37 AM
+- It is a bit hard trying to navigate between projects.
+- Using a flat hierarchy of `projects.*` is simple, but in the graph view everything is overlapping.
+    - There is no distinction between _active_ and _pending_ projects.
+    - Projects need to be archived to make room for other projects to become visible.
+- The alternative is to ditch tagging with `tags.projects.[active|pending]` and simply making a `projects.active.*` hierarchy for currently active projects and `projects.pending.*` for planned projects.
+    - Maybe also just have a local `projects.archived.*` hierarchy? I need to think about this.
