@@ -2,7 +2,7 @@
 id: 914fd8d3-d5bf-4ade-b939-7525d41fec78
 title: Resources
 desc: ''
-updated: 1618417047966
+updated: 1618499877390
 created: 1618416995912
 ---
 
@@ -13,3 +13,7 @@ created: 1618416995912
 
 ## Color
 - https://lospec.com/palette-list/1bit-monitor-glow
+
+## Painting
+- https://www.youtube.com/watch?v=8mr0W5wu50w
+- https://www.youtube.com/watch?v=aGPnN0Yoldw
