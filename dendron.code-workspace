@@ -21,6 +21,7 @@
         "workbench.editor.showTabs": false,
         "breadcrumbs.enabled": false,
         "dendron.defaultLookupCreateBehavior": "selectionExtract",
+        "dendron.defaultScratchAddBehavior": "childOfCurrent",
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "telemetry.enableTelemetry": false,
         "markdown-preview-enhanced.previewTheme": "none.css",

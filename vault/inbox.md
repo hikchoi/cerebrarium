@@ -2,7 +2,7 @@
 id: 420ac739-d3e6-42fb-8105-1eee75f32e46
 title: Inbox
 desc: ''
-updated: 1618625325735
+updated: 1618925761282
 created: 1617030807386
 ---
 
@@ -32,3 +32,7 @@ created: 1617030807386
     - https://www.youtube.com/watch?v=Pm9McwIshtY
     - https://www.youtube.com/watch?v=cPWqHzwG_Gk
 - https://www.youtube.com/watch?v=VV68NiRulEk
+- https://vivumlab.com/
+- https://testdriven.io/blog/fastapi-hypothesis/
+- https://awesomeopensource.com/
+- https://lospec.com/

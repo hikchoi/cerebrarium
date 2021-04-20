@@ -2,7 +2,7 @@
 id: 5ff86ee2-7e1a-47d9-bf0d-bbd2a088b064
 title: Vocab
 desc: ''
-updated: 1618632072298
+updated: 1618912392027
 created: 1618424261487
 ---
 
@@ -18,6 +18,10 @@ created: 1618424261487
 - Decorum
     - Behaviour that is controlled, calm, and polite.
     - _The witness endured the lawyer’s badgering with remarkable decorum._
+
+- Frivolity
+    - lack of seriousness; lightheartedness.
+    - _a night of fun and frivolity_
 
 ## I have a vague idea of what it means but it's not fully registered in my brain.
 
@@ -36,3 +40,5 @@ created: 1618424261487
 - Prodigious
     - Extremely great in ability, amount, or strength.
     - _She wrote a truly prodigious number of novels._
+- Tether to reality / tether on reality
+    - 
