@@ -2,7 +2,7 @@
 id: 420ac739-d3e6-42fb-8105-1eee75f32e46
 title: Inbox
 desc: ''
-updated: 1618925761282
+updated: 1621810012293
 created: 1617030807386
 ---
 
@@ -36,3 +36,6 @@ created: 1617030807386
 - https://testdriven.io/blog/fastapi-hypothesis/
 - https://awesomeopensource.com/
 - https://lospec.com/
+- https://github.com/commitizen/cz-cli
+- https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/
+- https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html

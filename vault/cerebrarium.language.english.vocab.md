@@ -2,7 +2,7 @@
 id: 5ff86ee2-7e1a-47d9-bf0d-bbd2a088b064
 title: Vocab
 desc: ''
-updated: 1618912392027
+updated: 1619312320390
 created: 1618424261487
 ---
 
@@ -23,6 +23,10 @@ created: 1618424261487
     - lack of seriousness; lightheartedness.
     - _a night of fun and frivolity_
 
+- Pageantry
+    - elaborate display or ceremony.
+    
+
 ## I have a vague idea of what it means but it's not fully registered in my brain.
 
 - Come to pass
@@ -40,5 +44,6 @@ created: 1618424261487
 - Prodigious
     - Extremely great in ability, amount, or strength.
     - _She wrote a truly prodigious number of novels._
-- Tether to reality / tether on reality
-    - 
+- Tether to reality / tether on reality.
+- Burning a hole in one's pocket
+    - Very eager to spend as soon as possible.

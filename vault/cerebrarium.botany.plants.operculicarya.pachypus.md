@@ -2,7 +2,7 @@
 id: 6e152bc4-a177-40be-96ef-1fd9df382aa6
 title: Pachypus
 desc: ''
-updated: 1616938951801
+updated: 1619924853185
 created: 1614428729473
 ---
 # Operculicarya Pachypus
@@ -81,3 +81,5 @@ I am not sure if I should soak the thing in root conditioner (like clone X or ox
 - So now I'm coming back to the topic and trying to gather information so I can be prepared to try out rooting it myself.
 - link to the [[project log|projects.archived.pachypus-prep]]
 
+[[cerebrarium.wild]]
+[[cerebrarium.botany.care.pest.mealybug]]

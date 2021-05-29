@@ -2,7 +2,7 @@
 id: 156f6c92-0a12-4cbf-972f-452f4889ef72
 title: Learn Vim
 desc: ''
-updated: 1618418074337
+updated: 1619282003982
 created: 1616771503396
 ---
 
@@ -30,3 +30,10 @@ created: 1616771503396
 **2021-04-15 12:51 AM**
 - Might be worth following [this](https://danielmiessler.com/study/vim/)
 - also [this](https://github.com/mhinz/vim-galore)
+
+- Following along the `Learn VIM` plugin.
+- making notes in [[cerebrarium.dev.vim]]
+- vscode vim is kind of... tacky...?
+    - not liking it so far.
+- Motions are cool but half of them don't work in emulation.
+- This may need a LOT of fiddling with keybindings in vscode and I'm not up for that right now.
