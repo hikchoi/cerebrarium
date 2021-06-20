@@ -2,7 +2,7 @@
 id: 420ac739-d3e6-42fb-8105-1eee75f32e46
 title: Inbox
 desc: ''
-updated: 1621810012293
+updated: 1624168196316
 created: 1617030807386
 ---
 
@@ -39,3 +39,4 @@ created: 1617030807386
 - https://github.com/commitizen/cz-cli
 - https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/
 - https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html
+- https://blog.readwise.io/tag-your-highlights-while-you-read/

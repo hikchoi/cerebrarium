@@ -1,16 +1,24 @@
 version: 1
 vaults:
-    - fsPath: vault
+    -
+        fsPath: vault
 site:
     copyAssets: true
     siteHierarchies:
         - cerebrarium
     siteRootDir: docs
     usePrettyRefs: true
-    gh_edit_repository: "https://github.com/hikchoi/cerebrarium"
-    logo: "vault/assets/images/2020-12-20-14-44-18.png"
-    siteFaviconPath: "vault/assets/images/favicon.ico"
-    siteUrl: "https://cerebrarium.garden"
-    githubCname: "cerebrarium.garden"
+    gh_edit_repository: 'https://github.com/hikchoi/cerebrarium'
+    logo: vault/assets/images/2020-12-20-14-44-18.png
+    siteFaviconPath: vault/assets/images/favicon.ico
+    siteUrl: 'https://cerebrarium.garden'
+    githubCname: cerebrarium.garden
     title: cerebrarium
-    author: "hikchoi" 
+    author: hikchoi
+initializeRemoteVaults: true
+journal:
+    dailyDomain: daily
+    name: journal
+    dateFormat: y.MM.dd
+    addBehavior: childOfDomain
+    firstDayOfWeek: 1

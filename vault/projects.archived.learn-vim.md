@@ -2,7 +2,7 @@
 id: 156f6c92-0a12-4cbf-972f-452f4889ef72
 title: Learn Vim
 desc: ''
-updated: 1619282003982
+updated: 1623645814911
 created: 1616771503396
 ---
 
@@ -37,3 +37,7 @@ created: 1616771503396
     - not liking it so far.
 - Motions are cool but half of them don't work in emulation.
 - This may need a LOT of fiddling with keybindings in vscode and I'm not up for that right now.
+
+**2021-06-14 13:39**
+- I have been using vim for a while for my daily programming and text editing tasks and I am quite comfortable with the basics.
+- Learning VIM from now on will be an ongoing effort to improve my workflow using vim.

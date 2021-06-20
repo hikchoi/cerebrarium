@@ -2,7 +2,7 @@
 id: 220ff743-4a40-4724-b4b2-f0a8d74dc46c
 title: Projects
 desc: ''
-updated: 1618426887933
+updated: 1623646038258
 created: 1615851833611
 ---
 # Projects
@@ -20,4 +20,5 @@ created: 1615851833611
 > Don't put anything project specific here. 
 > This is a highly abstracted to-do list to manage your projects.
 
-- [ ] figure out a sensible tag system for notes -> possible project
+- [ ] Clean up projects.
+- [ ] Start a zettel project.
