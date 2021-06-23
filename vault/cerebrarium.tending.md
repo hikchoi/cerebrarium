@@ -2,22 +2,23 @@
 id: ZtihdRyqFJMCdlVjMPuZj
 title: Tending
 desc: ''
-updated: 1624458713640
+updated: 1624459426730
 created: 1624458310725
 ---
 
 # On tending my Cerebrarium
 
-1. Open a note
-1. Ask yourself: Does this note deserve to stay?
-  1. If the answer is no, delete the note.
-    - This is a note that has to be pruned.
-    - Maybe you wanted to get to this topic, but never got a chance.
-    - It might not be relevant anymore. Maybe you aren't interested in it that much.
-    - It's already overwhelming to spend time on stuff that you are actively interested in.
-  1. If the answer is yes, ask yourself again: Do you need to work on it?
-    - If the answer is no, this note is good as is.
-      - You might get a chance to improve it in the future, but don't force it.
-    - If the answer is yes, think about explicit actionable tasks to do so.
-      - Turn it into a project.
-1. Mark it with appropriate metadata so that you can identify the status of the note easier in later sessions.
+Open a note. Does this note deserve to stay?
+
+If the answer is no, it has to be pruned.
+  - Maybe you wanted to get to this topic, but never did.
+  - It might have been relevant, but it probably isn't anymore.
+    - You will get back to it if it becomes relevant later.
+  - :exclamation:  It is already overwhelming to only spend time on stuff that you actively care about.
+
+If the answer is yes, ask again: Do you need to work on it?
+Some notes are good as is. It is complete. You may be able to improve it later if new ideas emerge, but you don't have to force it.
+Some notes do need to be tended. It may be overgrown or undergrown. Make explicit goals and extract actionable tasks to acheive that goal for the note. Read up on it. Make it a new project.
+
+It might also be a good idea to give notes a status so later on when you stumble upon it you know what to do immediately.
+  - Be careful not to fall into the trap of tagging excessively. Think about the absolute minimum set of statuses. Refer to [[Taggig is Broken|cerebrarium.reading.tagging-is-broken]].
