@@ -2,7 +2,7 @@
 id: Vivh0TkMkYZwTKYlGw8Yu
 title: Digital Zettelkasten
 desc: ''
-updated: 1624167570817
+updated: 1624411135808
 created: 1624162088595
 ---
 
@@ -34,3 +34,4 @@ created: 1624162088595
     - writers: how do I choose a keyword so that it's useful in writing later?
 - Try choosing keywords that are _specific to an idea_.
 - Links or tags? They serve similar purposes.
+- highlighting the highlights -> "progressive summarization" (Tiago Forte)
