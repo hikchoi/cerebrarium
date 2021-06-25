@@ -2,7 +2,7 @@
 id: BLOxRgVoOzucT-h5gZfHi
 title: Zettelkasten
 desc: ''
-updated: 1624368462178
+updated: 1624591563466
 created: 1624167827844
 ---
 
