@@ -2,7 +2,7 @@
 id: 420ac739-d3e6-42fb-8105-1eee75f32e46
 title: Inbox
 desc: ''
-updated: 1624593299330
+updated: 1624682616312
 created: 1617030807386
 ---
 
@@ -13,3 +13,7 @@ created: 1617030807386
 >
 > I try to leave a simple note on each inbox item so you have a context to work with when you get to it later.
 > These notes do not persist. Once they are acted upon, it will have served it's purpose and it will be deleted.
+
+## What comes in
+
+## What goes out

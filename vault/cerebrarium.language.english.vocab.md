@@ -2,7 +2,7 @@
 id: 5ff86ee2-7e1a-47d9-bf0d-bbd2a088b064
 title: Vocab
 desc: ''
-updated: 1619312320390
+updated: 1624634859123
 created: 1618424261487
 ---
 
@@ -25,7 +25,10 @@ created: 1618424261487
 
 - Pageantry
     - elaborate display or ceremony.
-    
+
+- Minutiae
+    - Minor detail
+    - _Don't get bogged down with the minutiae of everyday life._    
 
 ## I have a vague idea of what it means but it's not fully registered in my brain.
 
