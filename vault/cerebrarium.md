@@ -2,7 +2,7 @@
 id: 919a3a68-d78d-4403-aca5-ea6e722ca35b
 title: Cerebrarium
 desc: ''
-updated: 1624367447517
+updated: 1624778759593
 created: 1608971683570
 ---
 
@@ -20,4 +20,4 @@ Most of the documents here will not make sense as they are working copies of my 
 
 I plan to keep more polished and complete posts in my [main website](https://markhyunikchoi.com) and use this place as a nursery for my thoughts.
 
-This is my [[PARA|cerebrarium.pkm.para]], my [[Zettelkasten|cerebrarium.pkm.zettelkasten]], my second brain, my [[Commonplace Book|cerebrarium.pkm.commonplace-book]]. This is my kitchen-sink-crucible of tools that hopefully helps me think better.
+This is my [[PARA|cerebrarium.pkm.para]], my [[Zettelkasten|cerebrarium.pkm.zettelkasten]], my second brain. This is my Eudaimonia Machine. This is my kitchen-sink-crucible of tools that hopefully helps me think better. 
