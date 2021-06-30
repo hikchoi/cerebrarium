@@ -2,7 +2,7 @@
 id: '-KpBMvq1gzq0LRH0-xc4Z'
 title: Rule 1
 desc: ''
-updated: 1624801630520
+updated: 1625041691136
 created: 1624712840787
 ---
 
@@ -19,7 +19,7 @@ _**Work Deeply**_
 
 ## Simply reminding yourself to concentrate more isn't enough for deep work.
 - You are constantly challenged with desire to do anything BUT work.
-- _You have a finite amount of willpower that becomes depleted as you use it_.
+- _You have a finite amount of willpower that becomes depleted as you use it_. ^Y0Ql_XBV
 - You have to add _routines_ and _rituals_ on top of your good intentions to minimize these obstacles that block you from acheiving deep work.
 
 ## Strategies
@@ -29,17 +29,17 @@ _**Work Deeply**_
 - There is no right answer to this, but it is worth exploring what is right for _you_, as a incompatible depth philosophy may be of harm.
 - Deploying deep work in an ad-hoc way is also not an effective way.
 
-1. The Monastic
+1. The Monastic ^Fop4AVPo
     - Maximize deep efforts by eliminating shallow obligations.
       - No emails, no phone calls, etc...
     - Completely going dark to focus on deep work.
     - Not so compatible with most people in a modern world.
-1. The Bimodal
+1. The Bimodal ^2zHHwu66
     - Divide and allocate a clearly defined stretch of time to deep work, and go back to normalcy when it's over.
     - Works only if you dedicate enough time to reach peak cognitive intensity.
       - Tends to be no shorter than a day.
     - For people who cannot simply be absent from their normal life to focus on their interests.
-1. The Rhythmic
+1. The Rhythmic ^Gqkgruf8
     - The _chain method_.
       - Easiest way to start deep work is to make it in to a regular habit.
       - Create a rhythm for this work and remove the _need to decide when_ it is best to switch to deep work.
@@ -48,7 +48,7 @@ _**Work Deeply**_
       - In the long run, rhythmic workers will log more hours of deep work than bimodals.
     - A matter of self control. If nothing is pressuring you to do deep work (your life doesn't immediately depend on it), making it a habit is better.
     - In reality, your situation might not allow for long periods of deep work. In this case, you are locked into trying to make it a habit.
-1. The Journalistic
+1. The Journalistic ^tdNLbh_j
     - Fitting deep work whenever you can in your schedule.
     - There will be a lot of context switching which can quickly deplete your willpower.
     - This assumes a certain level of confidence in your ability to focus.
@@ -58,9 +58,9 @@ _**Work Deeply**_
 - People who achieve great results with their minds don't work in an ad-hoc fashion.
 - To make the most out of deep work, set up rituals like the important thinkers.
   - Mason Currey
-    - _There is a popular notion that artists work from inspiration--that there is some strike or bolt or bubbling up of creative mojo from who knows where... but I hope my work makes clear that wiating for inspiration to strike is a terrible, terrible plan. In fact, perhaps the single best piece of advice I can offer to anyone trying to do creative work is to ignore inspiration._
+    - _There is a popular notion that artists work from inspiration--that there is some strike or bolt or bubbling up of creative mojo from who knows where... but I hope my work makes clear that waiting for inspiration to strike is a terrible, terrible plan. In fact, perhaps the single best piece of advice I can offer to anyone trying to do creative work is to ignore inspiration._
   - David Brooks
-    - _Great creative minds think like artists but work like accountants_
+    - _Great creative minds think like artists but work like accountants_ ^2bdoDu3q
 - Rituals minimize friction in the transition from shallow to deep work, and it allows you to stay in deep work state longer and easier.
 
 - Some questions to ask yourself:
@@ -120,7 +120,7 @@ _**Work Deeply**_
           - Did 4 hours of deep work today.
     - Focus on lead measures.
     - In the context of deep work, the lead measure is the time spent in a state of deep work dedicated toward _your wildly important goal_.
-1. _Leep a Compelling Scoreboard_
+1. _Keep a Compelling Scoreboard_
     - You should have a physical artifact in your workspace that shows you the count of your lead measure.
 1. _Create a Cadence of Accountability_
     - Adopt a regular retrospection on your lead measure on deep work to ensure you are on the right track.

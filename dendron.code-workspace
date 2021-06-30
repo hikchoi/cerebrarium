@@ -21,7 +21,7 @@
         },
         "editor.suggest.showSnippets": true,
         "editor.tabCompletion": "on",
-        "workbench.editor.showTabs": false,
+        "workbench.editor.showTabs": true,
         "breadcrumbs.enabled": true,
         "dendron.defaultLookupCreateBehavior": "selectionExtract",
         "dendron.defaultScratchAddBehavior": "childOfCurrent",
