@@ -7,4 +7,3 @@ created: 1624367695892
 ---
 
 # On using a pen and paper for writing
-
