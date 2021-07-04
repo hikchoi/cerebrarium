@@ -18,7 +18,7 @@ created: 1609508666974
 - purchased panels and pcb on 2020-11-30
 - purchased components on 2020-12-19 (digikey)
     1. PLP1-350-F x 8 backordered
-    2. AD5687RBRUZ‎ x 2 backordered
+    2. AD5687RBRUZ x 2 backordered
 - purchased missing components on 2020-12-29 (mouser)
     1. PLP1-350 instead of PLP1-350-F
         - Round lens instead of flat lens
@@ -164,3 +164,7 @@ created: 1609508666974
 - Also, the power switch for USB (U1) burned. My first magic smoke!
     - I guess it couldn't handle my keyboard.
 - I should order replacement for U1 and a cheap usb keyboard.
+
+**2021-07-04 14:50**
+- This is not logged, but I troubleshot some but still have not finished it. It's been a while.
+- Eurorack is currently on the backburner, so it may take a bit to get back to this.

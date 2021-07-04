@@ -9,8 +9,7 @@ created: 1618417490575
 # Habit Dashboard
 
 > **Implement your own version of Habit Dashboard**
-> Start time: 
-> End time: 
+> Due: 2021-07-11
 
 ## Context
 - Stumbled upon [this](https://betterhumans.pub/draft-how-to-hack-your-brain-to-achieve-consistency-that-lasts-7f5fdc520d28) the other day
@@ -23,3 +22,9 @@ created: 1618417490575
 - [ ] Implement the method in my own journaling setup.
 
 ## Notes
+2021-07-04 14:43
+- I never started this. Life got in my way.
+- I probably should have done it back then when life was getting in my way in retrospect.
+- This does look like something that can go along with [[deep work|cerebrarium.reading.deep-work]], so I should do this soon.
+- Let's keep this in our daily and carry over until it's done.
+  - Giving myself a week to implement and start using it.

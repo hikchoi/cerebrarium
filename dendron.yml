@@ -6,6 +6,8 @@ site:
     copyAssets: true
     siteHierarchies:
         - cerebrarium
+        - daily
+        - projects
     siteRootDir: docs
     usePrettyRefs: true
     gh_edit_repository: 'https://github.com/hikchoi/cerebrarium'
