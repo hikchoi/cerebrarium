@@ -26,3 +26,6 @@ created: 1625403472598
 - Austin Z. Henley, Why I prefer making useless stuff
   - https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html
   - HN post on programming. light read.
+- Walter Roosli, Pachypodien in Madagaskar
+  - https://www.nhbs.com/pachypodiums-in-madagascar-book
+  - Gore Plant Seoul recommendation. Nice reference book.
