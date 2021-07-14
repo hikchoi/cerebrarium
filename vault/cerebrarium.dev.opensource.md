@@ -4,7 +4,6 @@ title: Opensource
 desc: ''
 updated: 1618928660309
 created: 1609633519981
-stub: true
 ---
 ## Open source
 
@@ -19,10 +18,3 @@ stub: true
 [Sync forked repo with upstream](https://help.github.com/articles/syncing-a-fork/)
 
 [The Greater Good Affirmation](https://good-labs.github.io/greater-good-affirmation/)
-
-### concepts
-
-### projects
-
-![[cerebrarium.dev.dendron]]
-

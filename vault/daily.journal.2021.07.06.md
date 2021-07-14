@@ -18,7 +18,7 @@ created: 1625572308664
 2021-07-06 20:53
 - I have the `cerebrarium.reading` hierarchy for gathering notes that I took from reading.
 - Similarly, I found a need to have a hierarchy for gathering notes that I took from watching videos and taking online classes.
-- Basically, somewhere to park the notes that I took from _consuming_ information, that is not yet processes for the second time for other purposes.
+- Basically, somewhere to park the notes that I took from _consuming_ information, that is not yet processes for the second time for other purposes. ^6KuDVWE4
 - These may be different forms of media, but at the end they are information.
 - I should have a more general hierarchy that can contain all of these.
   - At the end, it doesn't matter that it was a book, an article, or a video.

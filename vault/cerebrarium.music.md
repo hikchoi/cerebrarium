@@ -8,5 +8,4 @@ created: 1608979394255
 
 # Music
 
-- [[Concepts|cerebrarium.music.concepts]]
 - [[Synths|cerebrarium.music.synth]]

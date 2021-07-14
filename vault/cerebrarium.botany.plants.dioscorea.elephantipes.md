@@ -27,4 +27,4 @@ created: 1612097623462
 
 **2021-04-15 12:55 AM**
 - New link to check out : https://inuairon.com/caudex-dioscorea-elephantipes-how-to-grow/
-- Also, log what you did when there was a [[mealy bug|cerebrarium.botany.care.pest.mealybug]] problem. 
+- Also, log what you did when there was a mealy bug problem. 

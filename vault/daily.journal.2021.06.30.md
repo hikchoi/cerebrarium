@@ -6,7 +6,7 @@ updated: 1625017688121
 created: 1625017688121
 ---
 
-[[cerebrarium.reading.deep-work.rule-1]]
+[[ext.deep-work.rule-1]]
 
 - Ritualize
   - things to consider: 
@@ -38,7 +38,7 @@ created: 1625017688121
     - [ ] Clean up my desk 
     - [ ] Check my (personal) daily journal to check what I have to do after work.
 
-[[cerebrarium.reading.deep-work.rule-2]]
+[[ext.deep-work.rule-2]]
 
 - Take breaks from focus.
   - As a software developer removing distraction (especially the Internet) is a very tricky thing to do, as a lot of reference material needed for work is on the web.
@@ -64,7 +64,7 @@ created: 1625017688121
     - Generally anything that sparks my interest at that moment.
   - It might be worth looking into a fixed activity to do that is repeatable for this purpose.
   
-[[cerebrarium.reading.deep-work.rule-3]]
+[[ext.deep-work.rule-3]]
 - Instagram
   - I keep checking them, but I am not very active.
   - Simply reducing the frequency and time using it would work.
@@ -76,11 +76,11 @@ created: 1625017688121
   - Main time sink, but I do gain a lot from non-leisurely consumption of videos.
   - Try to be mindful of what you decide to watch.
 
-[[cerebrarium.reading.deep-work.rule-4]]
+[[ext.deep-work.rule-4]]
 - schedule every minute of your day
   - this could be implemented in my pocket notebook.
 
 
 [[daily.journal.2021.06.29]] and this note
-- I have gone through the reading notes of [[deep work|cerebrarium.reading.deep-work]] and extracted actions that I can immediately take.
+- I have gone through the reading notes of [[deep work|ext.deep-work]] and extracted actions that I can immediately take.
 - [ ] take these and compile into a separate note that you can reference for any deep work related activities.

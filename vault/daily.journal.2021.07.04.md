@@ -7,7 +7,7 @@ created: 1625376259649
 ---
 
 ## Ongoing Projects
-- [[projects.active.habit-dashboard]]
+- [[proj.done.habit-dashboard]]
 - 
 
 ## Tasks
@@ -21,7 +21,7 @@ created: 1625376259649
 2021-07-04 14:25
 - Yesterday was a long day. Couldn't do much. Carrying over the items from yesterday to work on.
 
-- [[projects]] Needs a bit of cleaning.
+- [[proj]] Needs a bit of cleaning.
 - As well as [[inbox]]
 - Current main interest is [[art|cerebrarium.art]]. That hierarchy looks pretty lonely. Let's focus on making new branches there.
 
@@ -30,7 +30,7 @@ created: 1625376259649
 
 2021-07-04 20:30
 - Cal Newport's [Time-Block Planner](https://www.timeblockplanner.com/) looks like it's a easy way to implement one of the ways to be mindful about deep work.
-  - This is mentioned in [[Schedule Every Minute of Your Day|cerebrarium.reading.deep-work.rule-4#schedule-every-minute-of-your-day]].
+  - This is mentioned in [[Schedule Every Minute of Your Day|ext.deep-work.rule-4#schedule-every-minute-of-your-day]].
 - I tried implementing this method on my pocket notebook (passport size), and it seems to be too small for it.
 - The problem with Cal's product (my problem, not the product's problem) is that it's a separate note book, and I specifically need to use my pocket notebook. [[cerebrarium.pkm.pen-and-paper]]
 - [Here](https://youtu.be/eff9h1WYxSo) is the instructions to use the Time-Block Planner.

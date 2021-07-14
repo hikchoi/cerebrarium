@@ -6,7 +6,7 @@ updated: 1625298567140
 created: 1625298567140
 ---
 
-[[projects]]
+[[proj]]
 - Needs a bit of cleaning.
 
 [[inbox]]

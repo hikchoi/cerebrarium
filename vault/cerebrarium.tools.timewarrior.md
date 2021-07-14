@@ -36,3 +36,14 @@ cancel active time tracking
 ```sh
 timew cancel
 ```
+
+modify
+- show the summary with ids
+```sh
+timew summary :week :ids
+```
+
+- then, select the @ interval you wish to modify
+```sh
+timew modify end @3 2021-07-13T00:00:00
+```

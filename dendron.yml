@@ -24,3 +24,5 @@ journal:
     dateFormat: y.MM.dd
     addBehavior: childOfDomain
     firstDayOfWeek: 1
+dev:
+    enableUnrefLinks: true

@@ -7,5 +7,5 @@ created: 1615851956319
 ---
 # Retrospects
 
-[[Productivity retrospect 2021.03.14|retro.productivity.210314]]
+[[Productivity retrospect 2021.03.14|daily.journal.2021.03.14]]
 
