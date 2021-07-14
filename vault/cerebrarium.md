@@ -6,7 +6,6 @@ updated: 1624778759593
 created: 1608971683570
 ---
 
-
 ![](/assets/images/2020-12-20-14-44-18.png)
 
 # Cerebrarium

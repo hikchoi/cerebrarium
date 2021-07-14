@@ -6,11 +6,6 @@ updated: 1626132082733
 created: 1626132082733
 ---
 
-## Tasks
-- [ ] Draw.
-- [ ] Housekeeping on published garden.
-- [ ] Update [now page](https://www.markhyunikchoi.com/now/)
-
 ## Notes
 2021-07-13 08:22
 - Downloaded [cronometer](https://cronometer.com/) to track macronutrients (mainly sodium)
