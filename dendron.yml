@@ -9,6 +9,7 @@ site:
         - ext
         - inbox
         - daily
+        - proj
     siteRootDir: docs
     usePrettyRefs: true
     gh_edit_repository: 'https://github.com/hikchoi/cerebrarium'

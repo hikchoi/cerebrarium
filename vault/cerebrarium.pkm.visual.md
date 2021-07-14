@@ -1,9 +1,9 @@
 ---
-id: SZLvYKHBmRuy4haSkGLf2
-title: Visual
+id: 20dP7mE5UPRsYQVK
+title: Visual Knowledge Management 
 desc: ''
-updated: 1625572461042
-created: 1625572461042
+updated: 1626299784374
+created: 1626299784374
 ---
 
 # Explore possibilities of using PKM tools for visual art
@@ -13,3 +13,4 @@ created: 1625572461042
 - In the end, both are creative processes.
 
 - It would be interesting to see how the pkm tools can be adapted for people in the visual art world.
+
