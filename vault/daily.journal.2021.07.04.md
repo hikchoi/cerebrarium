@@ -7,7 +7,7 @@ created: 1625376259649
 ---
 
 ## Ongoing Projects
-- [[proj.done.habit-dashboard]]
+- [[proj.habit-dashboard]]
 - 
 
 ## Tasks

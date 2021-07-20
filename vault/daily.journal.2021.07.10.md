@@ -8,14 +8,14 @@ created: 1625880896827
 
 ## Tasks
 - [ ] Update [now page](https://www.markhyunikchoi.com/now/)
-- [x] Work on [[proj.done.habit-dashboard]]
+- [x] Work on [[proj.habit-dashboard]]
 - [x] create `ext` hierarchy to hold all of these kinds of notes.
 - [x] write a quick rule for writing notes in thie hierarchy.
 - [ ] finish pruning [[cerebrarium]]
 
 ## Notes
 2021-07-10 17:44
-- [[proj.done.habit-dashboard]] needs some attention.
+- [[proj.habit-dashboard]] needs some attention.
   - I think this will be a great thing to go along with time-blocking.
 
 2021-07-10 19:17

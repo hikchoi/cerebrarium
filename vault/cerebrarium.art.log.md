@@ -2,7 +2,7 @@
 id: DCUwJEvVyqJubJOf
 title: Log
 desc: ''
-updated: 1626142183129
+updated: 1626620793012
 created: 1626142183129
 ---
 
@@ -55,3 +55,23 @@ created: 1626142183129
 - Generalizing this and conjecturing:
   - Would picking a subject and brute-forcing it pedantically be a good way to improve?
   - May relate to the concept of _deliberate practice_.
+
+2021-07-18 23:42
+- I think pedantically trying to fix what looks bad lead to making my lines less organic and awkward.
+  - After I'm happy with the proportions I should go over the entire line work and simplify the lines that shouldn't have too much detail.
+- Left sleeve looks like it should be placed a bit to the back so that the torso doesn't look too tilted towards the viewer. It should also obstruct part of the back so that with the current tilt it doesn't look like the trapezius is overly developed.
+- The opening of the shirt should be shifted a bit towards the left arm so that it is centered with the pants.
+- Drawing a box for the torso was helpful in figuring out what elements of it was misplaced.
+
+> Illustration of points mentioned above
+![](/assets/images/2021-07-18-23-53-18.png)
+
+
+2021-07-19 00:04
+- I think the proportions are good for now.
+- The next step is to decide if I want to place this in a scene or keep it as a pin up and start blocking in the basic colors.
+- I can always make it a pin up and then later start here and branch out to a full scene.
+- I think it's good to think about what's gonna go into the basket and then figure out what scene it should become.
+
+> After adjustment vs. overlap vs. before adjustment
+![](/assets/images/2021-07-19-00-03-35.png)

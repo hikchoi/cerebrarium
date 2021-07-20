@@ -9,7 +9,7 @@ created: 1625403323800
 ## Tasks
 - [x] Short retrospect 2-page spread daily journaling (for time-block)
 - [x] Finish pruning [[cerebrarium]]
-- [ ] Work on [[proj.do.choo-class-101]]
+- [ ] Work on [[proj.choo-class-101]]
 - [ ] Housekeeping on published garden.
 - [ ] Research DASH method.
 - [ ] Update [now page](https://www.markhyunikchoi.com/now/)

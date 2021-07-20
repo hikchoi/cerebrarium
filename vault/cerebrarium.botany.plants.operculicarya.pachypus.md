@@ -79,4 +79,4 @@ I am not sure if I should soak the thing in root conditioner (like clone X or ox
   - It is currently getting used to the environment and has several bits where the new leaves are about to form.
 - Also, apparently there will be a bulk sale of yet-to-be-rooted pachypuses at a new store.
 - So now I'm coming back to the topic and trying to gather information so I can be prepared to try out rooting it myself.
-- link to the [[project log|proj.done.pachypus-prep]]
+- link to the [[project log|proj.pachypus-prep]]

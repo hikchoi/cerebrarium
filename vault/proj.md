@@ -2,11 +2,27 @@
 id: 220ff743-4a40-4724-b4b2-f0a8d74dc46c
 title: Proj
 desc: ''
-updated: 1623646038258
+updated: 1626757112117
 created: 1615851833611
 ---
 
 # Projects
 
-> All actionables that need a good chunk of time and is more complex than a couple of checkboxes are dumped here.
-> These projects can have a set due date or be ongoing.
+## Do
+[[proj.HANDS]]
+[[proj.choo-class-101]]
+
+## Done
+[[proj.learn-vim]]
+[[proj.set-up-para]]
+[[proj.pachypus-prep]]
+[[proj.habit-dashboard]]
+
+## Backlog
+### Actionable
+[[proj.mhc-housekeeping]]
+
+### Not Actionable
+[[proj.study-human-anatomy]]
+[[proj.accidental-contraptions]]
+[[proj.note-tagging-system]]

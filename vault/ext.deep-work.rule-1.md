@@ -129,7 +129,7 @@ _**Work Deeply**_
 - _Idleness is not just a vacation, an indulgence or a vice; it is as indispensable to the brain as vitamin D is to the body, and deprived of it we suffer a mental affliction as disfiguring as rickets... it is, paradoxically, necessaryy to getting any work done._
 - Incorporate regular and sufficient _free time_ into your life, between deep work sessions so that you can be idle. This will give your brain room to perform better when it needs to (during deep work).
 - At the end of your workday, shut down. Once you shut down, your mind must stay free of concern of your work.
-- Have a strict shut down ritual.
+- Have a strict shut down ritual. ^HnqIEqCAMwE8MZ92
   - Ensure that all incomplete tasks / goals have been reviewed and you have plans to finish them / continue working on them when you get back.
   - Have something that demarcates the shutdown.
     - e.g.)
