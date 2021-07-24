@@ -1,5 +1,5 @@
 ---
-id: _cCFHIBXqPKbBHm03OdcC
+id: GNor0QXSFmdgyEt4
 title: Minimalist Journaling
 desc: ''
 updated: 1625910033715

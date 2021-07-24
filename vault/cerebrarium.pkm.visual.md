@@ -1,6 +1,6 @@
 ---
 id: 20dP7mE5UPRsYQVK
-title: Visual Knowledge Management 
+title: Visual Knowledge Management
 desc: ''
 updated: 1626299784374
 created: 1626299784374
