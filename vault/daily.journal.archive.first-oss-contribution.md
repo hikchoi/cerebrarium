@@ -1,10 +1,13 @@
 ---
-id: 739ad898-dfbf-403f-8cc6-073cfcca103e
-title: Dendron
+id: 4NGNjoO5EN2NEwQa
+title: First Oss Contribution
 desc: ''
-updated: 1615153244251
-created: 1609631769094
+updated: 1627957359756
+created: 1627957290508
 ---
+
+> This is an archived journal of my first OSS contribution. Keeping it in archive as it spans multiple days and was a major turning point in my career (ended up working for the project full time).
+
 
 # Dendron
 

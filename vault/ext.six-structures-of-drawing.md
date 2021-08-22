@@ -10,7 +10,7 @@ source: https://www.youtube.com/watch?v=6T_-DiAzYBc
 
 - Six steps on how you can learn to draw anything and provide you with a better understanding of form, design, and structure.
 
-1. Structuralization
+1. Structuralization ^4vaguD59043v0Dla
     - Basics. 
     - Learning to draw the simple shapes.
     - Learning how to draw them, cluster them, combine them intuitively.

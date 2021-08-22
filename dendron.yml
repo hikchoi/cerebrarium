@@ -28,3 +28,9 @@ journal:
     firstDayOfWeek: 1
 dev:
     enableUnrefLinks: true
+    previewV2Enabled: false
+scratch:
+    name: scratch
+    dateFormat: y.MM.dd.HHmmss
+    addBehavior: childOfCurrent
+dendronVersion: 0.52.0

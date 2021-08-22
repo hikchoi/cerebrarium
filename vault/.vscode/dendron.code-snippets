@@ -16,5 +16,10 @@
         "scope": "markdown,yaml",
         "body": "$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE",
         "description": "time"
+    },
+    "link": {
+        "prefix": "link",
+        "scope": "markdown,yaml",
+        "body": "[${1:label}](${2:link})$0"
     }
 }

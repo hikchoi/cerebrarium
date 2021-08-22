@@ -2,7 +2,7 @@
 id: DacECq0fwRJlF6W2geIwF
 title: Reading
 desc: ''
-updated: 1625849145068
+updated: 1627565298253
 created: 1625403472598
 ---
 
@@ -11,15 +11,13 @@ created: 1625403472598
 - Ray Dalio, Principles
   - https://www.principles.com/
   - Book about making decisions. Kevin's recommendtaion.
-- Andy Matuschak, Work With the Garage Door Up
-  - https://notes.andymatuschak.org/Work_with_the_garage_door_up
-  - A core idea I am trying to replicate witin my garden.
+- Andy Matuschak
+  - [note-writing systems](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr)
+  - [Taxonomy of note types](https://notes.andymatuschak.org/z6f6xgGG4NKjkA5NA1kDd46whJh2Gt5rAmfX)
+  - [note-writing livestream](https://www.youtube.com/watch?v=DGcs4tyey18)
 - Daniel Doyon (Readwise), How to Tag Your Highlights While You Read
   - https://blog.readwise.io/tag-your-highlights-while-you-read/
   - Related to [[ext.tagging-is-broken]]
-- Steve Yegge memo, https://maggieappleton.com/garden-history
-  - https://gist.github.com/kislayverma/d48b84db1ac5d737715e8319bd4dd368
-  - A popular internal memo that gives insights about how big tech do their stuff.
 - Jan Chipchase, Hidden in Plain Sight
   - https://www.amazon.com/Hidden-Plain-Sight-Extraordinary-Tomorrows/dp/0062125699/ref=sr_1_1?s=books&ie=UTF8&qid=1360265898&sr=1-1&keywords=chipchase
   - A book about observation
@@ -32,3 +30,7 @@ created: 1625403472598
 - Dan Nessler, How to apply a design thinking, HCD, UX or any creative process from scratch
   - https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
   - blog post about the Double Diamond.
+- Maggie Appleton
+  - [Digital Gardeners repo](https://github.com/MaggieAppleton/digital-gardeners)
+  - [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+- [metaself](http://www.metaself.org/index.php)

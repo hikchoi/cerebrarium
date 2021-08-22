@@ -2,7 +2,7 @@
 id: OKoUvBr6PQa2yUHp
 title: HANDS
 desc: ''
-updated: 1626882367382
+updated: 1628159925834
 created: 1626756938038
 ---
 
@@ -39,3 +39,15 @@ L11111 and find a repeatable pattern to follow for the rest of the poses.
   - try anything on it.
   - e.g.) for F11111, I could draw the hand, and make it into a tattoo design with whatever detail / style.
   - I think this is a good way to explore art styles.
+
+2021-07-25 17:23
+- [[Structuralization|ext.six-structures-of-drawing#^4vaguD59043v0Dla]] of the hand
+  - cylinders
+    - fingers
+    - arm
+  - spheres
+    - joints
+    - wrist
+    - tip of the finger
+  - plates / box
+    - palm / body of the hand

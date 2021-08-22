@@ -29,7 +29,7 @@ created: 1616771503396
 - also [this](https://github.com/mhinz/vim-galore)
 
 - Following along the `Learn VIM` plugin.
-- making notes in [[cerebrarium.dev.vim]]
+- making notes in [[ref.dev.vim]]
 - vscode vim is kind of... tacky...?
     - not liking it so far.
 - Motions are cool but half of them don't work in emulation.

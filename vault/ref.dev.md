@@ -7,5 +7,3 @@ created: 1608978988960
 ---
 
 # dev
-
-![[cerebrarium.dev.*]]
