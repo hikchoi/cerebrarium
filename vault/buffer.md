@@ -2,7 +2,7 @@
 id: WMaMKxUiJ200AZPK
 title: Buffer
 desc: ''
-updated: 1629095940997
+updated: 1629735786836
 created: 1626303485681
 ---
 
@@ -58,6 +58,46 @@ created: 1626303485681
 - What can I get out of this?
   - One actionable I can think of is a small manifesto about how I would approach artmaking, that I can come back to whenever I am struggling and need a refresher on what my fears are.
 
-2021-08-16 15:38
-
+2021-08-23 23:59
 [[Chapter 2|ext.art-and-fear.chapter-2]]
+- [[Quitting means not starting again, but art is all about starting again|ext.art-and-fear.chapter-2#^QgLc00UDcxI2]]
+  - This pretty much sums up everything about chapter 2.
+- The reasons artists quit doesn't really seem to apply to me _yet_, but it may be something that I have to think about later on.
+  - Convincing themselves that their next effort will fail
+  - Lose destination.
+  - I'm probably closer to the former than the latter, because I haven't really found a destination at all yet, and I'm still very much struggling to learn how the materials react to what I do to them.
+- [[Make friends with others who make art, and share your work frequently|ext.art-and-fear.chapter-2#^beDUjUvSguJQ]]
+  - This is prime advice.
+  - I feel like I never had people to share my work, and on any rare occasions I've shared, it felt great and gave me a lot of drive.
+- Some strategies that I can immediately try to implement for myself:
+    1. Remind yourself that it's natural that sometimes the result of executing your vision can be disappointing.
+    2. What you have the most control over is how the material reacts to your input.
+        - Practicing more and just _doing a lot of work_ will give you more control over the material.
+    3. Other than that, it's all about how _you_ react to the uncertainties.
+        - Train yourself to be resilient to surprises and mistakes.
+        - Use this as your advantage: stash these mistakes and discrepancies between your vision and execution and make sure you address that on your next project.
+          - Your next project will have more of those for the next one as well.
+          - _Not_ having those would probably mean another type of artistic death.
+
+[[Chapter 3|ext.art-and-fear.chapter-3]]
+- [[It is impossible to pretend to be an artist|ext.art-and-fear.chapter-3#^rMDCTFEKrQzE]]
+  - You either do art or you don't.
+  - Getting good reactions from your work is a completely separate thing from _being_ an artist. You did the work, you _are_ an artist. Simple as that.
+  - I wonder if I ever thought like this.
+    - I do sometimes think I'm pretending, but it's because I'm not really physically doing any work at all, and just _fantasizing_ about doing it.
+      - I guess it's a valid thing to say in this case.
+      - Probably not healthy to keep that thought lingering around though.
+      - Let's try to use this as a reminder that we are _hesitating_ for some reason, and find a way to put down that first brushstroke.
+        - Once the strokes flow out, this feeling tends to go away from me, which is at least a good sign that I'm not falling into this unhealthy ideation.
+- [[Use the imperfections to your advantage moving forward|ext.art-and-fear.chapter-3#^63VoyHdA8jil]]
+  - Art should be _fueled_ by imperfection, and used as something that will guide you through your subsequent works.
+  - Making note of the things I need to improve and time-boxing my project to a certain deadline could artificially create a cycle where I am incrementally improving myself.
+    - This can be true for both _familiarity of material_, and _how I react to my own work_.
+    - _Aim for 75%_, which is my mantra for everything could also be applied here.
+      - How do we quantify the work you are doing?
+        - I can't quantify _how good_ my work is; at least without a prior definition of my goals.
+          - The goal really has to be quanitfiable as well so no good.
+        - If I can come up with a quantifiable goal before I start any project, that would be great.
+          - But this may become yet another blocker for doing actual work and prefering incremental growth.
+          - Can I come up with a rule-of-thumb-ish general goal that I can use for any project?
+

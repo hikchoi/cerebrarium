@@ -19,7 +19,7 @@ created: 1629039881740
 - Comes from doubting your credentials as an artist.
 - Sometimes you will hit a wall and work becomes slow. Here, if you believe that art can only be made by extraordinary people, this wall will confirm that you are not.
 - Art (both making and viewing) takes a lot of energy, and the _art is for extraordinary people_ mindset gives you an excuse to quit.
-- You may sometimes feel like you are pretending to be an artist, but this is impossible.
+- You may sometimes feel like you are pretending to be an artist, but this is impossible. ^rMDCTFEKrQzE
   - Your work not being recieved well or not being exhibited somewhere does not make you a pretender. This is a completely different issue.
 - Someone has to do an artist's work, and you are doing it.
 
@@ -48,7 +48,7 @@ created: 1629039881740
 - If art needs to be perfect, no existing work would qualify as art.
 - To require perfection is to invite paralysis.
 - Demanding perfection is to deny humanity.
-- The seed of you next work lies within the imperfections of your current piece.
+- The seed of you next work lies within the imperfections of your current piece. ^63VoyHdA8jil
   - These are your guides that are valuable and reliable.
   - These give meaning to the art you are making.
 

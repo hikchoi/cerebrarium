@@ -2,7 +2,7 @@
 id: bfRuIC2xn22L8dJrB6dPN
 title: Chapter 2
 desc: ''
-updated: 1629039858226
+updated: 1629732672099
 created: 1629039858226
 ---
 
@@ -14,7 +14,7 @@ created: 1629039858226
     - they lose where their work belongs / lose their destination.
 - _the pen has run dry_ / artist's block / etc.
   - It means it's time to cultivate new ideas, but in artistic death, it means it's the last thing an artist will do.
-- Quitting means not starting again, but art is all about starting again.
+- Quitting means not starting again, but art is all about starting again. ^QgLc00UDcxI2
 
 - Another case: reaching their destination.
   - Success turns into depression.
@@ -22,7 +22,7 @@ created: 1629039858226
     - Always leave next steps and think about your next destination.
 
 - _OPERATING MANUAL FOR NOT QUITTING_
-  - Make friends with others who make art, and share your in-progress work with each other frequently.
+  - Make friends with others who make art, and share your in-progress work with each other frequently. ^beDUjUvSguJQ
   - Think of the above as the destination of your work, not MoMA.
 
 - The fear that naturally comes to people who get the sense of self from making art
