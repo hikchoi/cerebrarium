@@ -2,6 +2,32 @@ version: 1
 vaults:
     -
         fsPath: vault
+useFMTitle: true
+noAutoCreateOnDefinition: true
+noLegacyNoteRef: true
+noXVaultWikiLink: true
+autoFoldFrontmatter: false
+lookupConfirmVaultOnCreate: false
+mermaid: true
+useKatex: true
+dev:
+    enableLinkCandidates: true
+lookup:
+    note:
+        selectionType: none
+insertNoteLink:
+  aliasMode: selection
+  multiSelect: false
+journal:
+    dailyDomain: daily
+    name: ""
+    dateFormat: y.MM.dd
+    addBehavior: childOfCurrent
+    firstDayOfWeek: 1
+scratch:
+    name: scratch
+    dateFormat: y.MM.dd.HHmmss
+    addBehavior: childOfCurrent
 site:
     copyAssets: true
     siteHierarchies:
@@ -20,17 +46,4 @@ site:
     title: cerebrarium
     author: hikchoi
 initializeRemoteVaults: true
-journal:
-    dailyDomain: daily
-    name: journal
-    dateFormat: y.MM.dd
-    addBehavior: childOfDomain
-    firstDayOfWeek: 1
-dev:
-    enableUnrefLinks: true
-    previewV2Enabled: false
-scratch:
-    name: scratch
-    dateFormat: y.MM.dd.HHmmss
-    addBehavior: childOfCurrent
-dendronVersion: 0.52.0
+dendronVersion: 0.56.0

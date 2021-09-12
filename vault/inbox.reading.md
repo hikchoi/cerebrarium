@@ -2,7 +2,7 @@
 id: DacECq0fwRJlF6W2geIwF
 title: Reading
 desc: ''
-updated: 1627565298253
+updated: 1629934706032
 created: 1625403472598
 ---
 
@@ -34,3 +34,4 @@ created: 1625403472598
   - [Digital Gardeners repo](https://github.com/MaggieAppleton/digital-gardeners)
   - [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 - [metaself](http://www.metaself.org/index.php)
+- [The War of Art](https://www.amazon.com/dp/B007A4SDCG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)

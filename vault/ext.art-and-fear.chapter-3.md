@@ -2,7 +2,7 @@
 id: O0xVehhBzmJhGfigmm8sT
 title: Chapter 3
 desc: ''
-updated: 1629039881740
+updated: 1630244556405
 created: 1629039881740
 ---
 
@@ -27,7 +27,7 @@ created: 1629039881740
 - Talent is about _what comes easily_, and you will reach a point where things don't come easily.
 - Pondering about how much talent you have is the most wasteful thing you could do in art. It is also the most common sentiment artists have.
 - Talent _may_ give someone a head start, but without direction or goal it is meaningless.
-- Those who rely on talen will peak quickly and fade quicker.
+- Those who rely on talent will peak quickly and fade quicker.
 
 - Mozart improved his work by working.
 - Artist get better by improving their skills / learning new ones
@@ -58,7 +58,7 @@ created: 1629039881740
 - It is true, and the risk of not doing work depends on your need and desire to make stuff.
 
 ### Magic
-- _Maybe making art requires something special, something magical, that I don't have?_
+- _Maybe making art requires something special, something magical, that I don't have?_ ^sgrp0vGhGXdk
 - This belief gives you the need to prove that your work does have some magic to it.
 - With this mindset, when the work does turn out good, you are inclined to believe it's a fluke. If it doesn't, it's an omen.
 - There might be something special needed in order to make art, but it isn't a universal one. It will be personal to each individual artist.
@@ -75,4 +75,4 @@ created: 1629039881740
   - What do you need to do on your next piece? The last piece has the information.
   - Your work is your guide and reference.
 - So you need to look at your work without judegment / need or fear / hopes / expectations.
-- It is about asking what your work needs, not what _you_ need.
+- It is about asking what your work needs, not what _you_ need. ^Jm3ntoEebkD0

@@ -31,7 +31,7 @@ created: 1629039938804
 - We don't think about how or why we do things the way we do it. We just do.
   - Especially when things are going well.
 
-- Working within the self-imposed discipline of a particular form eases the prospect of having to reinvent yourself with each new piece.
+- Working within the self-imposed discipline of a particular form eases the prospect of having to reinvent yourself with each new piece. ^n0zxPU5gvZMM
 - Once you discover a useful form of work, it should not be abandoned.
 - Making good art depends on making _lots_ of art, and anything that lets you do put the first brushstroke onto the canvas has a very real, tangible and practical value.
   - Only the maker has a chance of knowing how important these minutiae and rituals are to them to stay at work.
