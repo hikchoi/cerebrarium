@@ -15,6 +15,7 @@ dev:
 lookup:
     note:
         selectionType: none
+        leaveTrace: false
 insertNoteLink:
   aliasMode: selection
   multiSelect: false
