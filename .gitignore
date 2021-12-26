@@ -3,3 +3,4 @@ build
 .dendron.port
 .dendron.ws
 **.DS_Store
+.next
