@@ -1,34 +1,10 @@
-version: 1
-vaults:
-    -
-        fsPath: vault
 useFMTitle: true
-noAutoCreateOnDefinition: true
-noLegacyNoteRef: true
-noXVaultWikiLink: true
-autoFoldFrontmatter: false
-lookupConfirmVaultOnCreate: false
+useNoteTitleForLink: true
 mermaid: true
 useKatex: true
 dev:
     enableLinkCandidates: true
-lookup:
-    note:
-        selectionType: none
-        leaveTrace: false
-insertNoteLink:
-  aliasMode: selection
-  multiSelect: false
-journal:
-    dailyDomain: daily
-    name: ""
-    dateFormat: y.MM.dd
-    addBehavior: childOfCurrent
-    firstDayOfWeek: 1
-scratch:
-    name: scratch
-    dateFormat: y.MM.dd.HHmmss
-    addBehavior: childOfCurrent
+    enablePreviewV2: true
 site:
     copyAssets: true
     siteHierarchies:
@@ -46,5 +22,73 @@ site:
     githubCname: cerebrarium.garden
     title: cerebrarium
     author: hikchoi
-initializeRemoteVaults: true
-dendronVersion: 0.56.0
+    description: Personal knowledge space
+    siteLastModified: true
+    gh_edit_branch: main
+version: 4
+commands:
+    lookup:
+        note:
+            selectionMode: none
+            confirmVaultOnCreate: false
+            leaveTrace: false
+            bubbleUpCreateNew: true
+    randomNote: {}
+    insertNote:
+        initialValue: templates
+    insertNoteLink:
+        aliasMode: selection
+        enableMultiSelect: false
+    insertNoteIndex:
+        enableMarker: false
+workspace:
+    dendronVersion: 0.71.0
+    vaults:
+        -
+            fsPath: vault
+    journal:
+        dailyDomain: daily
+        name: ''
+        dateFormat: y.MM.dd
+        addBehavior: childOfCurrent
+    scratch:
+        name: scratch
+        dateFormat: y.MM.dd.HHmmss
+        addBehavior: childOfCurrent
+    graph:
+        zoomSpeed: 1
+    enableAutoCreateOnDefinition: false
+    enableXVaultWikiLink: false
+    enableRemoteVaultInit: true
+    workspaceVaultSyncMode: noCommit
+    enableAutoFoldFrontmatter: false
+    maxPreviewsCached: 10
+    maxNoteLength: 204800
+    enableUserTags: true
+    enableHashTags: true
+    task:
+        name: ''
+        dateFormat: ''
+        addBehavior: childOfCurrent
+        statusSymbols:
+            '': ' '
+            wip: w
+            done: x
+            assigned: a
+            moved: m
+            blocked: b
+            delegated: l
+            dropped: d
+            pending: 'y'
+        prioritySymbols:
+            H: high
+            M: medium
+            L: low
+        todoIntegration: false
+        createTaskSelectionType: selection2link
+preview:
+    enableFMTitle: true
+    enableNoteTitleForLink: true
+    enableMermaid: true
+    enablePrettyRefs: true
+    enableKatex: true
