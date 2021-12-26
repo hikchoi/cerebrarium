@@ -2,17 +2,9 @@
 id: WMaMKxUiJ200AZPK
 title: Buffer
 desc: ''
-updated: 1638150775920
+updated: 1640484321305
 created: 1626303485681
 ---
-
-2021-11-20 17:28
-- Need to do some housekeeping. Cerebrarium has been overgrowing for a bit.
-- [ ] Migrate to nextjs publishing.
-- [ ] Clean up nav bar
-
-- Get back to projects
-- Start using variable substitution and inline schemas.
 
 Pull up
 - Grip width
