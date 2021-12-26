@@ -1,0 +1,126 @@
+{
+  "useFMTitle": true,
+  "useNoteTitleForLink": true,
+  "mermaid": true,
+  "useKatex": true,
+  "dev": {
+    "enableLinkCandidates": true,
+    "enablePreviewV2": true
+  },
+  "site": {
+    "copyAssets": true,
+    "siteHierarchies": [
+      "cerebrarium",
+      "ext",
+      "inbox",
+      "daily",
+      "proj"
+    ],
+    "siteRootDir": "docs",
+    "usePrettyRefs": true,
+    "gh_edit_repository": "https://github.com/hikchoi/cerebrarium",
+    "logo": "vault/assets/images/2020-12-20-14-44-18.png",
+    "siteFaviconPath": "vault/assets/images/favicon.ico",
+    "siteUrl": "https://cerebrarium.garden",
+    "githubCname": "cerebrarium.garden",
+    "title": "cerebrarium",
+    "author": "hikchoi",
+    "description": "Personal knowledge space",
+    "siteLastModified": true,
+    "gh_edit_branch": "main",
+    "usePrettyLinks": true,
+    "siteNotesDir": "notes",
+    "gh_edit_link": true,
+    "gh_edit_link_text": "Edit this page on GitHub",
+    "gh_root": "docs/",
+    "gh_edit_view_mode": "edit",
+    "writeStubs": true,
+    "siteIndex": "cerebrarium"
+  },
+  "version": 4,
+  "commands": {
+    "lookup": {
+      "note": {
+        "selectionMode": "none",
+        "confirmVaultOnCreate": false,
+        "leaveTrace": false,
+        "bubbleUpCreateNew": true,
+        "fuzzThreshold": 0.2
+      }
+    },
+    "randomNote": {},
+    "insertNote": {
+      "initialValue": "templates"
+    },
+    "insertNoteLink": {
+      "aliasMode": "selection",
+      "enableMultiSelect": false
+    },
+    "insertNoteIndex": {
+      "enableMarker": false
+    }
+  },
+  "workspace": {
+    "dendronVersion": "0.71.0",
+    "vaults": [
+      {
+        "fsPath": "vault"
+      }
+    ],
+    "journal": {
+      "dailyDomain": "daily",
+      "name": "",
+      "dateFormat": "y.MM.dd",
+      "addBehavior": "childOfCurrent"
+    },
+    "scratch": {
+      "name": "scratch",
+      "dateFormat": "y.MM.dd.HHmmss",
+      "addBehavior": "childOfCurrent"
+    },
+    "graph": {
+      "zoomSpeed": 1
+    },
+    "enableAutoCreateOnDefinition": false,
+    "enableXVaultWikiLink": false,
+    "enableRemoteVaultInit": true,
+    "workspaceVaultSyncMode": "noCommit",
+    "enableAutoFoldFrontmatter": false,
+    "maxPreviewsCached": 10,
+    "maxNoteLength": 204800,
+    "enableUserTags": true,
+    "enableHashTags": true,
+    "task": {
+      "name": "",
+      "dateFormat": "",
+      "addBehavior": "childOfCurrent",
+      "statusSymbols": {
+        "": " ",
+        "wip": "w",
+        "done": "x",
+        "assigned": "a",
+        "moved": "m",
+        "blocked": "b",
+        "delegated": "l",
+        "dropped": "d",
+        "pending": "y"
+      },
+      "prioritySymbols": {
+        "H": "high",
+        "M": "medium",
+        "L": "low"
+      },
+      "todoIntegration": false,
+      "createTaskSelectionType": "selection2link"
+    },
+    "enableEditorDecorations": true
+  },
+  "preview": {
+    "enableFMTitle": true,
+    "enableNoteTitleForLink": true,
+    "enableMermaid": true,
+    "enablePrettyRefs": true,
+    "enableKatex": true,
+    "automaticallyShowPreview": false
+  }
+}
