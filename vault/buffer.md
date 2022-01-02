@@ -2,7 +2,7 @@
 id: WMaMKxUiJ200AZPK
 title: Buffer
 desc: ''
-updated: 1640484321305
+updated: 1640486363817
 created: 1626303485681
 ---
 
@@ -43,3 +43,15 @@ Pull up
     - prone to injuries
   - too much rebound
   - forcing the pull
+
+2021-12-26 11:15
+- pruning plans
+- start with the nav bar
+  - hide inbox
+  - hide daily
+  - catch-all archive.* hierarchy for things that you don't want to delete immediately.
+    - published: false
+- projects
+  - write top level description
+  - write template
+  - prune and migrate all projects

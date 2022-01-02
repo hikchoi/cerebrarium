@@ -25,6 +25,7 @@ site:
     description: Personal knowledge space
     siteLastModified: true
     gh_edit_branch: main
+hierarchyDisplay: false
 version: 4
 commands:
     lookup:

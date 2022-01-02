@@ -2,8 +2,9 @@
 id: 420ac739-d3e6-42fb-8105-1eee75f32e46
 title: Inbox
 desc: ''
-updated: 1627711992175
+updated: 1640485199686
 created: 1617030807386
+nav_exclude: true
 ---
 
 # Inbox
