@@ -47,7 +47,7 @@ created: 1626750911182
   - For now, just append to the end of the log.
 
 2021-07-20 13:17
-- [[proj.HANDS]]
+- [[proj.art.HANDS]]
   - left hand (L), right hand (R)
   - 5 digits to mark which fingers are folded(0) or not(1)
     - first digit after L/R is the thumb, and the rest follows.

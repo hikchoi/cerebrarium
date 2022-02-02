@@ -2,9 +2,10 @@
 id: 51d27109-bd15-4355-ab4c-c5ada0cdee12
 title: Pachypus Prep
 desc: ''
-updated: 1617502299035
+updated: 1643832629661
 created: 1616938696417
 ---
+
 # Pachypus purchase preparation
 
 > **Prepare everything you need for rooting an [[Operculicarya Pachypus|cerebrarium.botany.plants.operculicarya.pachypus]] before purchasing.**
@@ -150,4 +151,3 @@ Q. ~~When can I repot it?~~
   - The details I will write in another note.
 - I spent more than I would have liked to, but I couldn't have had a better first experience for bare root stock purchase. Well worth the price tag.
   - To clarify, it was a bargain considering the health of the stock and the extra mile they went to clarify it. I simply spent over my budget.
-

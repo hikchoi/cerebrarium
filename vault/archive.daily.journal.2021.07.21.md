@@ -9,5 +9,5 @@ created: 1626865588828
 
 ## Notes
 2021-07-21 20:20
-- Let's start working on [[proj.HANDS]]
+- Let's start working on [[proj.art.HANDS]]
 - today's goal is to _start_ L00000.

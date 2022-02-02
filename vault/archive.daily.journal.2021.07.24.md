@@ -7,7 +7,7 @@ created: 1627117198718
 ---
 
 2021-07-24 20:36
-- [[proj.HANDS]]
+- [[proj.art.HANDS]]
   - Did show me that being pedantic / deliberate with my drawing practice indeed pays off.
   - I think keeping this as a _default_ thing to do for art would let me keep doing something and not worry about _what_ to draw and stuff like that. things that really gives you the artist's block.
 
