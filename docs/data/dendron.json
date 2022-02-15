@@ -46,7 +46,8 @@
         "confirmVaultOnCreate": false,
         "leaveTrace": false,
         "bubbleUpCreateNew": true,
-        "fuzzThreshold": 0.2
+        "vaultSelectionModeOnCreate": "alwaysPrompt",
+        "fuzzThreshold": 0.1
       }
     },
     "randomNote": {},
@@ -54,7 +55,7 @@
       "initialValue": "templates"
     },
     "insertNoteLink": {
-      "aliasMode": "selection",
+      "aliasMode": "prompt",
       "enableMultiSelect": false
     },
     "insertNoteIndex": {
@@ -85,6 +86,7 @@
     "enableAutoCreateOnDefinition": false,
     "enableXVaultWikiLink": false,
     "enableRemoteVaultInit": true,
+    "enableEditorDecorations": true,
     "workspaceVaultSyncMode": "noCommit",
     "enableAutoFoldFrontmatter": false,
     "maxPreviewsCached": 10,
@@ -113,8 +115,7 @@
       },
       "todoIntegration": false,
       "createTaskSelectionType": "selection2link"
-    },
-    "enableEditorDecorations": true
+    }
   },
   "preview": {
     "enableFMTitle": true,

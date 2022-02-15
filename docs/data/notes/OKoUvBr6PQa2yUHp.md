@@ -19,7 +19,7 @@ L11111 and find a repeatable pattern to follow for the rest of the poses.
 - real references over 3d renders / pics.
 
 2021-07-21 20:21
-- Just realized starting with L11111 would give me a better idea of what's going on in the hand. So change of plans. starting with [[proj.HANDS.L.11111]].
+- Just realized starting with L11111 would give me a better idea of what's going on in the hand. So change of plans. starting with [[proj.art.HANDS.L.11111]].
 - Do I start with a tutorial? I have no idea how to draw hands.
 - I first want to take a picture and draw over it to get a sense of what I can do without handholding (heh).
 
