@@ -34,11 +34,13 @@ commands:
             confirmVaultOnCreate: false
             leaveTrace: false
             bubbleUpCreateNew: true
+            vaultSelectionModeOnCreate: alwaysPrompt
+            fuzzThreshold: 0.1
     randomNote: {}
     insertNote:
         initialValue: templates
     insertNoteLink:
-        aliasMode: selection
+        aliasMode: prompt
         enableMultiSelect: false
     insertNoteIndex:
         enableMarker: false
@@ -61,6 +63,7 @@ workspace:
     enableAutoCreateOnDefinition: false
     enableXVaultWikiLink: false
     enableRemoteVaultInit: true
+    enableEditorDecorations: true
     workspaceVaultSyncMode: noCommit
     enableAutoFoldFrontmatter: false
     maxPreviewsCached: 10
@@ -93,3 +96,4 @@ preview:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
+    automaticallyShowPreview: false
