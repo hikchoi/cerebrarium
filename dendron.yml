@@ -1,32 +1,8 @@
-useFMTitle: true
-useNoteTitleForLink: true
-mermaid: true
-useKatex: true
 dev:
     enableLinkCandidates: true
     enablePreviewV2: true
-site:
-    copyAssets: true
-    siteHierarchies:
-        - cerebrarium
-        - ext
-        - inbox
-        - daily
-        - proj
-    siteRootDir: docs
-    usePrettyRefs: true
-    gh_edit_repository: 'https://github.com/hikchoi/cerebrarium'
-    logo: vault/assets/images/2020-12-20-14-44-18.png
-    siteFaviconPath: vault/assets/images/favicon.ico
-    siteUrl: 'https://cerebrarium.garden'
-    githubCname: cerebrarium.garden
-    title: cerebrarium
-    author: hikchoi
-    description: Personal knowledge space
-    siteLastModified: true
-    gh_edit_branch: main
-hierarchyDisplay: false
-version: 4
+    enableWebUI: true
+version: 5
 commands:
     lookup:
         note:
@@ -44,8 +20,9 @@ commands:
         enableMultiSelect: false
     insertNoteIndex:
         enableMarker: false
+    copyNoteLink: {}
 workspace:
-    dendronVersion: 0.71.0
+    dendronVersion: 0.84.0
     vaults:
         -
             fsPath: vault
@@ -97,3 +74,41 @@ preview:
     enablePrettyRefs: true
     enableKatex: true
     automaticallyShowPreview: false
+    enableHierarchyDisplay: false
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
+publishing:
+    enableFMTitle: true
+    enableHierarchyDisplay: false
+    enableNoteTitleForLink: true
+    enableMermaid: true
+    enablePrettyRefs: true
+    enableKatex: true
+    copyAssets: true
+    logoPath: vault/assets/images/2020-12-20-14-44-18.png
+    siteFaviconPath: vault/assets/images/favicon.ico
+    siteHierarchies:
+        - cerebrarium
+        - ext
+        - inbox
+        - daily
+        - proj
+    enableSiteLastModified: true
+    siteRootDir: docs
+    siteUrl: 'https://cerebrarium.garden'
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
+    enableRandomlyColoredTags: true
+    writeStubs: false
+    seo:
+        title: cerebrarium
+        description: Personal knowledge space
+        author: hikchoi
+    github:
+        cname: cerebrarium.garden
+        enableEditLink: true
+        editLinkText: Edit this page on GitHub
+        editBranch: main
+        editViewMode: tree
+        editRepository: 'https://github.com/hikchoi/cerebrarium'
+    enablePrettyLinks: true
