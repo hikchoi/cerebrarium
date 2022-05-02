@@ -1,7 +1,6 @@
 dev:
     enableLinkCandidates: true
     enablePreviewV2: true
-    enableWebUI: true
 version: 5
 commands:
     lookup:
@@ -22,7 +21,7 @@ commands:
         enableMarker: false
     copyNoteLink: {}
 workspace:
-    dendronVersion: 0.84.0
+    dendronVersion: 0.92.1
     vaults:
         -
             fsPath: vault
@@ -67,6 +66,7 @@ workspace:
             L: low
         todoIntegration: false
         createTaskSelectionType: selection2link
+    enableFullHierarchyNoteTitle: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -95,7 +95,7 @@ publishing:
         - proj
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: 'https://cerebrarium.garden'
+    siteUrl: https://cerebrarium.garden
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
@@ -110,5 +110,5 @@ publishing:
         editLinkText: Edit this page on GitHub
         editBranch: main
         editViewMode: tree
-        editRepository: 'https://github.com/hikchoi/cerebrarium'
+        editRepository: https://github.com/hikchoi/cerebrarium
     enablePrettyLinks: true

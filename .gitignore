@@ -4,3 +4,5 @@ build
 .dendron.ws
 **.DS_Store
 .next
+
+.backup
