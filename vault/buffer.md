@@ -2,7 +2,7 @@
 id: WMaMKxUiJ200AZPK
 title: Buffer
 desc: ''
-updated: 1652578805503
+updated: 1652620327769
 created: 1626303485681
 ---
 
@@ -92,3 +92,12 @@ Notes for SF concept art
   - the rest can then be then imagined to look like something out of the world and appealing.
     - again, within the constraint of conventional understanding of what this object exists for.
 
+- finding balance in density.
+  - not all surface of a mechanic object should be complex.
+  - you should go back and forth and find the right balance for detail density in order to lead the viewer's eyes to certain places.
+    - otherwise there's no place to put their eyes.
+
+- start with a simple sillouette, look at references and find a visual balance.
+  - try to replicate that balance with your own details
+  - rinse and repeat.
+  - iterate. what started as X doesn't necessarily need to be that until the end (of course if you are not obligated to deliver a certain thing. This is about exploring the design space)
