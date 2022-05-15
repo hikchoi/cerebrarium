@@ -40,7 +40,7 @@ workspace:
     enableXVaultWikiLink: false
     enableRemoteVaultInit: true
     enableEditorDecorations: true
-    workspaceVaultSyncMode: noCommit
+    workspaceVaultSyncMode: sync
     enableAutoFoldFrontmatter: false
     maxPreviewsCached: 10
     maxNoteLength: 204800
