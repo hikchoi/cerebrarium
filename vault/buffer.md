@@ -2,7 +2,7 @@
 id: WMaMKxUiJ200AZPK
 title: Buffer
 desc: ''
-updated: 1652620327769
+updated: 1652623694542
 created: 1626303485681
 ---
 
@@ -101,3 +101,31 @@ Notes for SF concept art
   - try to replicate that balance with your own details
   - rinse and repeat.
   - iterate. what started as X doesn't necessarily need to be that until the end (of course if you are not obligated to deliver a certain thing. This is about exploring the design space)
+
+## Vehicles
+- Plausibility first, then aesthetics
+  - then we should carefully observe how real life vehicles function / look like
+  - not like a vehicle engineer, but even a superficial / rough understanding of how parts work will help coming up with new concepts
+
+- Flying vehicles
+  - environment
+    - is it flying in space? in Earth's atmosphere?
+      - friction
+      - air
+      - aerodynamics
+    - these factors will affect how the overall shape of the vehicle looks (gives plausibility)
+      - e.g.) doesn't make sense to have a blob shaped vehicle to fly around an environment where air / friction exists
+- things to ask
+  - how does an airplane fly?
+  - why does it need wings?
+  - why are wings shaped that way?
+  - why are rockets pointy?
+
+- then how do we deviate from real life vehicles?
+- borrow shapes from other things. Could be anything.
+  - try to find a way to grab the shape from non-vehicles, then try to make that into one.
+    - e.g. dolphin shaped shapeship
+      - of course, they should look like they can fly.
+
+    - this is just an example. you can find shapes from anywhere. This is what you should practice.
+      - build your visual library
