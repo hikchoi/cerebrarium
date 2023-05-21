@@ -18,8 +18,7 @@ jobs:
     - name: Build
       run: |
         npx dendron publish init
-        npx cd .next && yarn && cd ..
-        npx dendron publish export
+        npx dendron publish build
 
     - name: Deploy site
       uses: peaceiris/actions-gh-pages@v3

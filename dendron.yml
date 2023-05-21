@@ -92,8 +92,8 @@ publishing:
         - cerebrarium
         - ext
         - inbox
-        - daily
         - proj
+        - buffer
     writeStubs: false
     siteRootDir: docs
     seo:
