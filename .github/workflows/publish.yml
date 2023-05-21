@@ -20,7 +20,7 @@ jobs:
         npx dendron publish init
         npx dendron publish build
         npx dendron publish export
-        cp .next/out ./docs
+        cp -r ./.next/out ./docs
 
     - name: Deploy site
       uses: peaceiris/actions-gh-pages@v3
