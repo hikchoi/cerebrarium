@@ -18,5 +18,3 @@ and also try to travel back in time and excavate what I have been dumping into m
 Most of the documents here will not make sense as they are working copies of my projects and ideas. This page is the entrypoint to my thoughts but there isn't a clearly sorted order of navigation. I simply decided to share these publicly to facilitate easy sharing and _**thinking out loud**_
 
 I plan to keep more polished and complete posts in my [main website](https://markhyunikchoi.com) and use this place as a nursery for my thoughts.
-
-This is my [[PARA|cerebrarium.pkm.para]], my [[Zettelkasten|cerebrarium.pkm.zettelkasten]], my second brain. This is my Eudaimonia Machine. This is my kitchen-sink-crucible of tools that hopefully helps me think better. 

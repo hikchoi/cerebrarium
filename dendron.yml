@@ -1,7 +1,7 @@
+version: 5
 dev:
     enableLinkCandidates: true
     enablePreviewV2: true
-version: 5
 commands:
     lookup:
         note:
@@ -19,7 +19,9 @@ commands:
         enableMultiSelect: false
     insertNoteIndex:
         enableMarker: false
-    copyNoteLink: {}
+    copyNoteLink:
+        aliasMode: title
+    templateHierarchy: template
 workspace:
     dendronVersion: 0.92.1
     vaults:
@@ -36,6 +38,7 @@ workspace:
         addBehavior: childOfCurrent
     graph:
         zoomSpeed: 1
+        createStub: false
     enableAutoCreateOnDefinition: false
     enableXVaultWikiLink: false
     enableRemoteVaultInit: true
@@ -70,11 +73,9 @@ workspace:
             - done
             - x
     enableFullHierarchyNoteTitle: false
-    enableHandlebarTemplates: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
-    enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
     automaticallyShowPreview: false
@@ -83,27 +84,18 @@ preview:
     enableHashesForFMTags: false
 publishing:
     enableFMTitle: true
-    enableHierarchyDisplay: false
     enableNoteTitleForLink: true
-    enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
-    logoPath: vault/assets/images/2020-12-20-14-44-18.png
-    siteFaviconPath: vault/assets/images/favicon.ico
     siteHierarchies:
         - cerebrarium
         - ext
         - inbox
         - daily
         - proj
-    enableSiteLastModified: true
-    siteRootDir: docs
-    siteUrl: https://cerebrarium.garden
-    enableFrontmatterTags: true
-    enableHashesForFMTags: false
-    enableRandomlyColoredTags: true
     writeStubs: false
+    siteRootDir: docs
     seo:
         title: cerebrarium
         description: Personal knowledge space
@@ -115,5 +107,14 @@ publishing:
         editBranch: main
         editViewMode: tree
         editRepository: https://github.com/hikchoi/cerebrarium
-    enablePrettyLinks: true
+    enableSiteLastModified: true
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
+    enableRandomlyColoredTags: true
     enableTaskNotes: true
+    enablePrettyLinks: true
+    searchMode: lookup
+    enableHierarchyDisplay: false
+    logoPath: vault/assets/images/2020-12-20-14-44-18.png
+    siteFaviconPath: vault/assets/images/favicon.ico
+    siteUrl: https://cerebrarium.garden
