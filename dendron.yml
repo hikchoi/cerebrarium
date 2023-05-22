@@ -12,8 +12,6 @@ commands:
             vaultSelectionModeOnCreate: alwaysPrompt
             fuzzThreshold: 0.1
     randomNote: {}
-    insertNote:
-        initialValue: templates
     insertNoteLink:
         aliasMode: prompt
         enableMultiSelect: false
@@ -79,7 +77,6 @@ preview:
     enablePrettyRefs: true
     enableKatex: true
     automaticallyShowPreview: false
-    enableHierarchyDisplay: false
     enableFrontmatterTags: true
     enableHashesForFMTags: false
 publishing:
@@ -91,9 +88,8 @@ publishing:
     siteHierarchies:
         - cerebrarium
         - ext
-        - inbox
+        - ref
         - proj
-        - buffer
     writeStubs: false
     siteRootDir: docs
     seo:
