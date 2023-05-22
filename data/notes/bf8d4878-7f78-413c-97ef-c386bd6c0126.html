@@ -1,0 +1,94 @@
+<h1 id="variable">Variable<a aria-hidden="true" class="anchor-heading icon-link" href="#variable"></a></h1>
+<h1 id="variable-declaration">Variable Declaration<a aria-hidden="true" class="anchor-heading icon-link" href="#variable-declaration"></a></h1>
+<ul>
+<li><code>var</code> has weird scoping rules
+<ul>
+<li>It is accessible anywhere within their containing scope regardless of the containing block.
+<ul>
+<li>It's not an error to declare the same variable multiple times</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><code>let</code>, unlike <code>var</code>, uses lexical scoping.
+<ul>
+<li>the variable scope doesn't leak now.</li>
+</ul>
+</li>
+<li>Shadowing : introducing a new name in a more nested scope</li>
+<li><code>let</code> or <code>const</code>? 
+<ul>
+<li>Depends. Apply the principle of least privilege.</li>
+</ul>
+</li>
+<li>Destructuring
+<ul>
+<li>ECMAScript 2015 feature</li>
+<li>e.g.
+<pre class="language-js"><code class="language-js"><span class="token keyword">let</span> input <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">]</span><span class="token punctuation">;</span>
+<span class="token keyword">let</span> <span class="token punctuation">[</span>first<span class="token punctuation">,</span> second<span class="token punctuation">]</span> <span class="token operator">=</span> input<span class="token punctuation">;</span>
+<span class="token console class-name">console</span><span class="token punctuation">.</span><span class="token method function property-access">log</span><span class="token punctuation">(</span>first<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 1</span>
+<span class="token console class-name">console</span><span class="token punctuation">.</span><span class="token method function property-access">log</span><span class="token punctuation">(</span>second<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 2</span>
+</code></pre>
+</li>
+<li>equivalent to indexing.</li>
+<li>use <code>...</code> for remaining items (they can be omitted if you don't need them.)
+<pre class="language-js"><code class="language-js"><span class="token keyword">let</span> <span class="token punctuation">[</span>first<span class="token punctuation">,</span> <span class="token spread operator">...</span>rest<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">]</span><span class="token punctuation">;</span>
+<span class="token console class-name">console</span><span class="token punctuation">.</span><span class="token method function property-access">log</span><span class="token punctuation">(</span>first<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 1</span>
+<span class="token console class-name">console</span><span class="token punctuation">.</span><span class="token method function property-access">log</span><span class="token punctuation">(</span>rest<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// [2, 3, 4]</span>
+</code></pre>
+</li>
+<li>also works with objects
+<pre class="language-js"><code class="language-js"><span class="token keyword">let</span> o <span class="token operator">=</span> <span class="token punctuation">{</span>
+    <span class="token literal-property property">a</span><span class="token operator">:</span> <span class="token string">"foo"</span><span class="token punctuation">,</span>
+    <span class="token literal-property property">b</span><span class="token operator">:</span> <span class="token number">12</span><span class="token punctuation">,</span>
+    <span class="token literal-property property">c</span><span class="token operator">:</span> <span class="token string">"bar"</span><span class="token punctuation">,</span>
+<span class="token punctuation">}</span><span class="token punctuation">;</span>
+<span class="token keyword">let</span> <span class="token punctuation">{</span> a<span class="token punctuation">,</span> b <span class="token punctuation">}</span> <span class="token operator">=</span> o<span class="token punctuation">;</span>
+</code></pre>
+</li>
+<li>type annotation with destructuring is confusing:
+<pre class="language-js"><code class="language-js"><span class="token keyword">let</span> <span class="token punctuation">{</span> a<span class="token punctuation">,</span> b <span class="token punctuation">}</span><span class="token operator">:</span> <span class="token punctuation">{</span> <span class="token literal-property property">a</span><span class="token operator">:</span> string<span class="token punctuation">;</span> b<span class="token punctuation">;</span> number <span class="token punctuation">}</span> <span class="token operator">=</span> o<span class="token punctuation">;</span>
+</code></pre>
+</li>
+<li>destructuring with default values
+<pre class="language-js"><code class="language-js"><span class="token comment">// b? means b is optional</span>
+<span class="token keyword">function</span> <span class="token function">foo</span><span class="token punctuation">(</span><span class="token parameter"><span class="token literal-property property">o</span><span class="token operator">:</span> <span class="token punctuation">{</span> <span class="token literal-property property">a</span><span class="token operator">:</span> string<span class="token punctuation">;</span> b<span class="token operator">?</span><span class="token operator">:</span> number <span class="token punctuation">}</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token comment">// give default value of b since it is optional</span>
+    <span class="token keyword">let</span> <span class="token punctuation">{</span> a<span class="token punctuation">,</span> b <span class="token operator">=</span> <span class="token number">1</span> <span class="token punctuation">}</span> <span class="token operator">=</span> o
+<span class="token punctuation">}</span>
+</code></pre>
+</li>
+<li>function declaration with destructuring
+<pre class="language-js"><code class="language-js">type <span class="token constant">C</span> <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token literal-property property">a</span><span class="token operator">:</span> string<span class="token punctuation">;</span> b<span class="token operator">?</span><span class="token operator">:</span> number <span class="token punctuation">}</span><span class="token punctuation">;</span>
+<span class="token keyword">function</span> <span class="token function">f</span><span class="token punctuation">(</span><span class="token parameter"><span class="token punctuation">{</span> a<span class="token punctuation">,</span> b <span class="token punctuation">}</span><span class="token operator">:</span> <span class="token constant">C</span></span><span class="token punctuation">)</span><span class="token operator">:</span> <span class="token keyword">void</span> <span class="token punctuation">{</span>
+    <span class="token comment">//..</span>
+<span class="token punctuation">}</span>
+</code></pre>
+</li>
+<li>Anything but a simple destructuring gets extremely confusing. Use sparingly.</li>
+</ul>
+</li>
+<li>Spreading
+<ul>
+<li>opposite of destructuring
+<pre class="language-js"><code class="language-js"><span class="token keyword">let</span> first <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">]</span><span class="token punctuation">;</span>
+<span class="token keyword">let</span> second <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">3</span><span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">]</span><span class="token punctuation">;</span>
+<span class="token keyword">let</span> both <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">,</span> <span class="token spread operator">...</span>first<span class="token punctuation">,</span> <span class="token spread operator">...</span>second<span class="token punctuation">,</span> <span class="token number">5</span><span class="token punctuation">]</span><span class="token punctuation">;</span> <span class="token comment">// [0, 1, 2, 3, 4, 5]</span>
+</code></pre>
+</li>
+<li>also works with objects
+<pre class="language-js"><code class="language-js"><span class="token keyword">let</span> defaults <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token literal-property property">food</span><span class="token operator">:</span> <span class="token string">"spicy"</span><span class="token punctuation">,</span> <span class="token literal-property property">price</span><span class="token operator">:</span> <span class="token string">"$$"</span><span class="token punctuation">,</span> <span class="token literal-property property">ambiance</span><span class="token operator">:</span> <span class="token string">"noisy"</span> <span class="token punctuation">}</span>
+<span class="token keyword">let</span> search <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token spread operator">...</span>defaults<span class="token punctuation">,</span> <span class="token literal-property property">food</span><span class="token operator">:</span> <span class="token string">"rich"</span> <span class="token punctuation">}</span>
+<span class="token comment">// properties coming later in the spread object overwrites.</span>
+</code></pre>
+</li>
+<li>with object spreading, you lose methods.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/notes/3b017f65-fc19-48e0-a1fc-33e1b89a3621">Js</a></li>
+</ul>

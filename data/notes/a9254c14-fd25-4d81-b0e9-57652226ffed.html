@@ -1,0 +1,30 @@
+<h1 id="python">Python<a aria-hidden="true" class="anchor-heading icon-link" href="#python"></a></h1>
+<ul>
+<li>
+<p>raw format strings are useful when composing regex patterns in verbose mode</p>
+<pre class="language-python"><code class="language-python"><span class="token keyword">import</span> re
+
+pattern <span class="token operator">=</span> <span class="token string-interpolation"><span class="token string">rf"""
+^[</span><span class="token interpolation"><span class="token punctuation">{</span>prefix<span class="token punctuation">}</span></span><span class="token string">]?     # optionally match prefix at start
+(?P&#x3C;all>         # capture named group all
+    (?P&#x3C;left>    # capture named group left
+        \d+?     # lazily match digits
+    )
+    </span><span class="token interpolation"><span class="token punctuation">{</span>infix<span class="token punctuation">}</span></span><span class="token string">      # match infix
+    (?P&#x3C;right>   # capture named group right
+        \d+      # match digits
+    )
+)
+[</span><span class="token interpolation"><span class="token punctuation">{</span>suffix<span class="token punctuation">}</span></span><span class="token string">]?$     # optionally match suffix at start
+"""</span></span>
+
+rx <span class="token operator">=</span> re<span class="token punctuation">.</span><span class="token builtin">compile</span><span class="token punctuation">(</span>pattern<span class="token punctuation">,</span> re<span class="token punctuation">.</span>VERBOSE<span class="token punctuation">)</span>
+
+<span class="token keyword">match</span> <span class="token operator">=</span> rx<span class="token punctuation">.</span><span class="token keyword">match</span><span class="token punctuation">(</span>some_string<span class="token punctuation">)</span>
+</code></pre>
+</li>
+<li>
+<p>testing out python regex
+<a href="https://pythex.org/">pythex</a></p>
+</li>
+</ul>
